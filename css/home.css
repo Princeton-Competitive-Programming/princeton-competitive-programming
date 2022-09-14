@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-custom a {
-  color: #e77500 !important;
+  color: #f58025 !important;
   font-size: 1.5em;
   text-decoration: none;
   font-family: 'Lato', sans-serif;
@@ -27,7 +27,7 @@ body {
 }
 
 .navbar-custom a:hover {
-  color: #ffbb75;
+  color: #ffbb75 !important;
   text-decoration: none;
 }
 
@@ -81,14 +81,24 @@ h4 {
   color:  #f58025;
 }
 
-.normal-list {
+.content-container a {
+  color: #e77500 !important;
+  text-decoration: none;
+}
+
+.content-container a:hover {
+  color: #ffbb75 !important;
+  text-decoration: none;
+}
+
+.content-container ul {
   margin-left: 15px;
   padding-left: 10px;
   border-left: 2px solid #e77500;
   list-style-type: none;
 }
 
-.normal-list li {
+.content-container li {
   margin-bottom: 5px;
 }
 

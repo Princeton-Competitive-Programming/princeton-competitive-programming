@@ -13,7 +13,7 @@
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="icon" href="/images/favicon.ico" sizes="any"><!-- 32×32 -->
+  <link rel="icon" href="{{ site.baseurl }}/img/favicon.ico" sizes="any"><!-- 32×32 -->
 
   <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
