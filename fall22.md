@@ -19,8 +19,8 @@ if you are thinking about competing in the International Collegiate
 Programming Contests, check our [contests page]({{ site.baseurl
 }}/icpc).
 
-For suggestions or questions please contact [Pedro
-Paredes](https://www.cs.princeton.edu/~pparedes/)
+We have a <i class="bi bi-discord"></i> Discord channel, to join please
+contact [Pedro Paredes](https://www.cs.princeton.edu/~pparedes/)
 (pparedes_at_cs.princeton.edu).
 
 ## Basic Information
@@ -58,17 +58,29 @@ problems and contests).
 
 ## Schedule
 
-### Week 2 (September 16)
+### Week 3 (September 23)
 
  * Division I contest: TBD
  
  * Division II contest: TBD
 
- * Lecture topic: *Analyzing algorithms and Big O notation*
+ * Lecture topic: TBD
+
+ * Lecturer: 
+ 
+ * Solutions: TBD
+
+### Week 2 (September 16)
+
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/399159)
+ 
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/399158)
+
+ * Lecture topic: [Time complexity and Sorting]({{ sites.baseurl }}/files/lec_f22_w2.pdf)
 
  * Lecturer: Pedro Paredes
  
- * Solutions: TBD
+ * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vTlqZoj9116B1NGOiLAzpdcOH8N59gNoazDCMBlFXkYPR9TrLLXUy7qHo_1tDmzIJd8YYb8jFxL59um/pub) \| [Edit file](https://docs.google.com/document/d/1y8C2uDLbpgxhU-zBsZfnb3QC39Y6ccXLXPOLB0mrIjI/edit?usp=sharing)
 
 ### Week 1 (September 9)
 
