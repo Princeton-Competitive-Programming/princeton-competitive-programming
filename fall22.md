@@ -60,13 +60,13 @@ problems and contests).
 
 ### Week 3 (September 23)
 
- * Division I contest: TBD
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/400171)
  
- * Division II contest: TBD
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/400170)
 
- * Lecture topic: TBD
+ * Lecture topic: Graph Search (DFS/BFS)
 
- * Lecturer: 
+ * Lecturer: Derek Geng
  
  * Solutions: TBD
 
