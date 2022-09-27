@@ -91,7 +91,7 @@ complement your readings.
 
 We will first look at some general resources.
 
-* <i class="bi bi-cup-hot"></i>/<i class="bi bi-cup-hot"></i><i
+* <i class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
   class="bi bi-cup-hot"></i> [Competitive Programmer’s
   Handbook](https://cses.fi/book/book.pdf) by Antti Laaksonen: this is
   an amazing book that covers pretty much all the fundamental topics
