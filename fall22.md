@@ -58,17 +58,26 @@ problems and contests).
 
 ## Schedule
 
-### Week 3 (September 23)
+### Week 4 (September 30)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/400171)
  
  * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/400170)
 
+ * Lecture topic: Dynamic Programming
+
+ * Lecturer: Pedro Paredes
+ 
+ * Solutions: TBD
+
+
+### Week 3 (September 23)
+
+ * No contest this week (CodeForces was down)
+
  * Lecture topic: Graph Search (DFS/BFS)
 
  * Lecturer: Derek Geng
- 
- * Solutions: TBD
 
 ### Week 2 (September 16)
 
