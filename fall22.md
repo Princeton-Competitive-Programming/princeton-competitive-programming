@@ -68,7 +68,7 @@ problems and contests).
 
  * Lecturer: Pedro Paredes
  
- * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vTK355b0Cn_tay4vEeXK_Bn3BE0Jup7zVepc2FKbwBdEtJP5jzfJMi3I4E9W4APyPhAG24NUviBUZOg/pub) | [Edit file](https://docs.google.com/document/d/1-igV2-eSB5oCajpdDSPVBr45E3bQgfAUtd1ISXziF1U/edit?usp=sharing)
+ * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vTK355b0Cn_tay4vEeXK_Bn3BE0Jup7zVepc2FKbwBdEtJP5jzfJMi3I4E9W4APyPhAG24NUviBUZOg/pub) \| [Edit file](https://docs.google.com/document/d/1-igV2-eSB5oCajpdDSPVBr45E3bQgfAUtd1ISXziF1U/edit?usp=sharing)
 
 
 ### Week 3 (September 23)
