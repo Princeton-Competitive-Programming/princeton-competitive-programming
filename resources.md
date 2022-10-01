@@ -98,7 +98,10 @@ We will first look at some general resources.
   in competitive programming starting from sorting and time complexity
   all the way to advanced data structures and geometry. It is great
   for people with no experience or with some experience in competitive
-  programming.
+  programming. **NOTE:** there is a [paid
+  version](https://link.springer.com/book/10.1007/978-3-319-72547-5)
+  of the book with extra content that is available for free from
+  Princeton IP addresses.
 
 * <i class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
   class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i class="bi
@@ -134,17 +137,16 @@ all be advanced topics and we recommend you get experienced with the
 fundamentals of competitive programming (using some of the above
 resources) before looking at these:
 
-* <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i
+* (Topic: Geometry) <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i
   class="bi bi-cup-hot"></i> [Handbook of geometry for competitive
   programmers](https://victorlecomte.com/cp-geo.pdf) by Victor Lecomte
-  (Topic: Geometry): an introduction to all the geometry needed for
-  competitive programming. Note that this doesn't really include
-  computational geometry, it is more about the geometry primitives
-  that can be used in computational geometry (which you can find a lot
-  of on
+  : an introduction to all the geometry needed for competitive
+  programming. Note that this doesn't really include computational
+  geometry, it is more about the geometry primitives that can be used
+  in computational geometry (which you can find a lot of on
   [here](https://cp-algorithms.com/geometry/basic-geometry.html)).
 
-* <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i
+* (Topic: Dynamic Programming) <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i
   class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i> Collection
   of resources on Dynamic Programming Optimizations: [summary of
   techniques](https://maratona.ic.unicamp.br/MaratonaVerao2017/documents/dp.pdf),
@@ -157,4 +159,44 @@ resources) before looking at these:
 
 ## Practicing Problems and Contests
 
-Coming soon
+There are several websites available to practice competitive
+programming. Some are problem repositories, where you can find and
+submit solutions to a collection of problems. Some are contest
+websites that host regular contests of different levels. Usually the
+latter also have a large repository of problems you can solve outside
+of contests. Both play important roles because to get better at
+competitive programming you need to solve lots of different kinds of
+problems, but also practice in actual contests (or simulations of
+contests), much like our [weekly sessions]({{ site.baseurl }}/fall22).
+
+Here is a list of problem repositories.
+
+* <i class="bi bi-cup-hot"></i> [CSES Problem
+  Set](https://cses.fi/problemset/): this is a collection of over 300
+  problems of different categories that are take you through all the
+  fundamentals of competitive programming. It is highly recommended to
+  beginners.
+
+* <i class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
+  class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
+  class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i> [Kattis
+  Problem Archive](https://open.kattis.com/): a collection of problems
+  of all difficulties, mostly taken from ICPC contests.
+
+Here is a list of contest websites:
+
+* <i class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
+  class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
+  class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i>
+  [Codeforces](https://codeforces.com/): this is the website we use
+  for our weekly sessions. It has really high quality problems and
+  contests and lots of other resources including articles on different
+  topics and a discussion board.
+
+* <i class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
+  class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
+  class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i>
+  [Codeforces](https://codeforces.com/): this is the website we use
+  for our weekly sessions. It has really high quality problems and
+  contests and lots of other resources including articles on different
+  topics and a discussion board.
