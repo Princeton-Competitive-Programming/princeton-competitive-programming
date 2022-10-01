@@ -193,10 +193,7 @@ Here is a list of contest websites:
   contests and lots of other resources including articles on different
   topics and a discussion board.
 
-* <i class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
-  class="bi bi-cup-hot"></i> / <i class="bi bi-cup-hot"></i><i
-  class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i>
-  [Codeforces](https://codeforces.com/): this is the website we use
-  for our weekly sessions. It has really high quality problems and
-  contests and lots of other resources including articles on different
-  topics and a discussion board.
+* <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i> / <i
+  class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i class="bi
+  bi-cup-hot"></i> [AtCoder](https://atcoder.jp/): another really high
+  quality website with tons of great problems.
