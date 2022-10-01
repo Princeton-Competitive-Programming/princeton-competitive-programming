@@ -64,7 +64,7 @@ problems and contests).
  
  * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/400170)
 
- * Lecture topic: Dynamic Programming I, [slides]({{ sites.baseurl }}/files/lec_f22_w4.pdf)
+ * Lecture topic: [Dynamic Programming I]({{ sites.baseurl }}/files/lec_f22_w4.pdf)
 
  * Lecturer: Pedro Paredes
  
@@ -73,7 +73,7 @@ problems and contests).
 
 ### Week 3 (September 23)
 
- * No contest this week (CodeForces was down)
+ * No contest this week (Codeforces was down)
 
  * Lecture topic: Graph Search (DFS/BFS)
 
