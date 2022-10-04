@@ -137,13 +137,14 @@ all be advanced topics and we recommend you get experienced with the
 fundamentals of competitive programming (using some of the above
 resources) before looking at these:
 
-* (Topic: Geometry) <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i
-  class="bi bi-cup-hot"></i> [Handbook of geometry for competitive
-  programmers](https://victorlecomte.com/cp-geo.pdf) by Victor Lecomte
-  : an introduction to all the geometry needed for competitive
-  programming. Note that this doesn't really include computational
-  geometry, it is more about the geometry primitives that can be used
-  in computational geometry (which you can find a lot of on
+* (Topic: Geometry) <i class="bi bi-cup-hot"></i><i class="bi
+  bi-cup-hot"></i><i class="bi bi-cup-hot"></i> [Handbook of geometry
+  for competitive programmers](https://victorlecomte.com/cp-geo.pdf)
+  by Victor Lecomte: an introduction to all the geometry needed for
+  competitive programming. Note that this doesn't really include
+  computational geometry, it is more about the geometry primitives
+  that can be used in computational geometry (which you can find a lot
+  of on
   [here](https://cp-algorithms.com/geometry/basic-geometry.html)).
 
 * (Topic: Dynamic Programming) <i class="bi bi-cup-hot"></i><i class="bi bi-cup-hot"></i><i
