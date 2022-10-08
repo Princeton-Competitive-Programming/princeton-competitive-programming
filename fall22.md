@@ -58,6 +58,14 @@ problems and contests).
 
 ## Schedule
 
+### Week 4 (October 7)
+
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/402608)
+ 
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/402607)
+ 
+ * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vQ7q_k8fUr1ZRb5mGrhjG8u0OU1_3J31y5S46apgQdtM21Elev3e3Fn5uTQPQ0oBQrs6EWX5ZHJnuB5/pub) \| [Edit file](https://docs.google.com/document/d/1ynUpQw8og0LFEr9TrmTeClDhCRjOmzz0pkRYQ4VzmHw/edit?usp=sharing)
+
 ### Week 4 (September 30)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/400171)
