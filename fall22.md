@@ -58,7 +58,7 @@ problems and contests).
 
 ## Schedule
 
-### Week 4 (October 7)
+### Week 5 (October 7)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/402608)
  
