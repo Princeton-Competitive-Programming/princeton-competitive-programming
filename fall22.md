@@ -58,6 +58,18 @@ problems and contests).
 
 ## Schedule
 
+### Week 6 (October 14)
+
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/403533)
+ 
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/403532)
+
+ * Lecture topic: Dynamic Programming II
+
+ * Lecturer: Pedro Paredes
+ 
+ * Solutions: TBD
+
 ### Week 5 (October 7)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/402608)
