@@ -58,17 +58,17 @@ problems and contests).
 
 ## Schedule
 
+### Week 7 (October 28)
+
+ * Halloween special: <i class="bi bi-bug-fill"></i>Spoooky Constest<i class="bi bi-bug-fill"></i> - Math themed prizes for the top 3!
+
 ### Week 6 (October 14)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/403533)
  
  * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/403532)
-
- * Lecture topic: Dynamic Programming II
-
- * Lecturer: Pedro Paredes
  
- * Solutions: TBD
+ * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vTmNxRhvS_FE4MkqO8JPLmRPL0_lrXvR-5n3hqq5YJPk93vpgfDzDamQByGmCM49RFJMGDU5y-J2rdm/pub) \| [Edit file](https://docs.google.com/document/d/1WOUv46nsG2QRYX3FB0doXZxuGdZV3VDquUjzIPSK-WQ/edit?usp=sharing)
 
 ### Week 5 (October 7)
 
