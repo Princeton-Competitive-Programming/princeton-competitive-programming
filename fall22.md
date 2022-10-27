@@ -60,7 +60,7 @@ problems and contests).
 
 ### Week 7 (October 28)
 
- * <span class="badge text-bg-warning fs-2">Halloween special: <i class="bi bi-bug-fill"></i>Spoooky Constest<i class="bi bi-bug-fill"></i> - Math themed prizes for the top 3!</span>
+ * <span class="badge text-bg-warning fs-3">Halloween special: <i class="bi bi-bug-fill"></i>Spoooky Constest<i class="bi bi-bug-fill"></i> - Math themed prizes for the top 3!</span>
 
 ### Week 6 (October 14)
 
