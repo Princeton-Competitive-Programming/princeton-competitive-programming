@@ -62,6 +62,8 @@ problems and contests).
 
  * <span class="badge text-bg-warning fs-3">Halloween special: <i class="bi bi-bug-fill"></i>Spoooky Constest<i class="bi bi-bug-fill"></i> - Math themed prizes for the top 3!</span>
 
+* [Link to the contest]({{ site.baseurl }}/spooky-contest)
+
 ### Week 6 (October 14)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/403533)
