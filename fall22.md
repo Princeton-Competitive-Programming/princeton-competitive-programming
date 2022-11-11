@@ -16,8 +16,8 @@ check our [about page]({{ site.baseurl }}/about). We also have a
 [resources page]({{ site.baseurl }}/resources) with lots of links to
 materials of all levels for you to practice and learn more. Finally,
 if you are thinking about competing in the International Collegiate
-Programming Contests, check our [contests page]({{ site.baseurl
-}}/icpc).
+Programming Contests, check our [contests
+page](http://princeton.acm.org/events/icpc/index.html).
 
 We have a <i class="bi bi-discord"></i> Discord channel, to join please
 contact [Pedro Paredes](https://www.cs.princeton.edu/~pparedes/)
@@ -58,19 +58,27 @@ problems and contests).
 
 ## Schedule
 
+### Week 9 (November 11)
+
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/409720)
+ 
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/409722)
+ 
+ * Solutions: TBD
+
 ### Week 8 (November 4)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/408307)
  
  * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/408334)
  
- * Solutions: TBD
+ * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vQ0B519DKVyauwvCC68J8VzMrlvII2L7SMUOzFsY2CtJLkBNY8l4N3LcGUXHvIyK-VLKM-x3CrAusEY/pub) \| [Edit file](https://docs.google.com/document/d/1j2iOEYRwb-Quc8Kc3onSai1EWeOCix5y8rbrztOVn4k/edit?usp=sharing)
 
 ### Week 7 (October 28)
 
  * <span class="badge text-bg-warning fs-3">Halloween special: <i class="bi bi-bug-fill"></i>Spoooky Constest<i class="bi bi-bug-fill"></i> - Math themed prizes for the top 3!</span>
 
-* [Link to the contest]({{ site.baseurl }}/spooky-contest)
+* [Link to the contest]({{ site.baseurl }}/spooky-contest), [Link to photos of the event and results]({{ site.baseurl }}/spooky-contest#photos)
 
 ### Week 6 (October 14)
 

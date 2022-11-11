@@ -37,9 +37,14 @@ We have prizes for the 3 students with the most points. In the event of ties the
 
 We'll also have the usual free food and extra Halloween candy.
 
+## Winners
+
+ * 1st Place - Daniel Yang '26
+ * 2nd Place - Raheem Idowu '25
+
 ## Photos
 
-<div id="slideShow" class="carousel slide" data-bs-ride="true">
+<div id="slideShow" class="carousel slide mb-2" data-bs-ride="true">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#slideShow" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#slideShow" data-bs-slide-to="1" aria-label="Slide 2"></button>
