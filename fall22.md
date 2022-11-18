@@ -58,13 +58,21 @@ problems and contests).
 
 ## Schedule
 
+### Week 10 (November 18)
+
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/410961)
+ 
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/410962)
+ 
+ * Solutions: TBD
+
 ### Week 9 (November 11)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/409720)
  
  * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/409722)
- 
- * Solutions: TBD
+
+ * Solutions: [View file](https://docs.google.com/document/d/e/2PACX-1vQbHW8CGY00JWdd4Ue-dndfZqN33lVOklCbBcP7drfQ5EgTRbAfX93njOqoxxRcJvoBLiNo7xHhFLZi/pub) \| [Edit file](https://docs.google.com/document/d/17h-seh9MgUlh0YUrc6kckkMelr64qCGn-nX-_eC6eX4/edit?usp=sharing)
 
 ### Week 8 (November 4)
 
