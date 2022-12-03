@@ -60,7 +60,7 @@ problems and contests).
 
 ### Week 12 (December 9)
 
- * <span class="badge text-bg-warning fs-3">End of Semester Special Constest - Prizes for the top 3!</span>
+ * <span class="badge text-bg-success fs-3">End of Semester Special Constest - Prizes for the top 3!</span>
 
 * [Link to the contest]({{ site.baseurl }}/final_fall_22)
 
