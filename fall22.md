@@ -58,6 +58,20 @@ problems and contests).
 
 ## Schedule
 
+### Week 12 (December 9)
+
+ * <span class="badge text-bg-warning fs-3">End of Semester Special Constest - Prizes for the top 3!</span>
+
+* [Link to the contest]({{ site.baseurl }}/final_fall_22)
+
+### Week 11 (December 2)
+
+ * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/413724)
+ 
+ * Division II contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/413723)
+ 
+ * Solutions: TBD
+
 ### Week 10 (November 18)
 
  * Division I contest: [link](https://codeforces.com/group/hNnRWqFua0/contest/410961)
