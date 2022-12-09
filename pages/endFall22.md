@@ -7,6 +7,8 @@ layout: page
 
 ### Week 12 (December 9)
 
+<span class="badge text-bg-success fs-3">[Click here to participate in the contest!]({{ site.baseurl }}/rules)</span>
+
 After 12 weeks of competitive programming we are finally at the end of
 the semester. To celebrate this occasion, we will have an end of
 semester special contest with prizes and some holiday cheer. The
@@ -55,23 +57,24 @@ participants in each division.
 Note that most contest problems will have appeared before in other
 competitions from around the world, we won't have original problems in
 our contests unless otherwise mentioned. You shouldn't try to search
-for the original problem, since this would be cheating.
+for the original problem, since this would be cheating. You are also
+**not** allowed to use tools like github copilot or chatGPT.
 
 The contest links will be placed here just before the competition
 starts.
 
 ## Prizes
 
-The top 2 students in division I will get prizes as well as the top
-student in division II. We also award an extra fun secret prize to a
-participant in either division I or II to be revealed at the end.
+Here is the list of prizes
 
-The list of prizes includes:
+ * 1st Place of Div I - Book *Mathematical Puzzles: A Connoisseur's Collection* by Peter Winkler **AND** Book *Guide to Competitive Programming* by Antti Laaksonen ([here is a pdf of the book](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf))
+ * 1st Place of Div II - Gyroscope physics toy **AND** Book *Guide to Competitive Programming* by Antti Laaksonen ([here is a pdf of the book](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf))
+ * 2nd Place of Div I - Pyramid Rubik's "cube" and 2x2x2 Rubik's cube **AND** Book *Guide to Competitive Programming* by Antti Laaksonen ([here is a pdf of the book](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf))
+ * 2nd Place of Div II - 3x3x3 Rubik's cube and 4x4x4 Rubik's cube
 
- * 3 books on competitive programming
- * 1 book on mathematical puzzles
- * Several Rubik's cube variations
- * One gyroscope math/physics toy
- * Super secret fun prize
+Since we have offered similar prizes before, we might switch up the order of prizes to prevent awarding someone a prize they have gotten in the past.
+
+We'll also award an extra fun prize to a participant in either division I
+or II that completes a secret challenge, to be revealed at the end.
 
 We'll also have the usual free food and snacks for everyone.
