@@ -29,7 +29,7 @@ our contests unless otherwise mentioned. You shouldn't try to search
 for the original problem, since this would be cheating. You are also
 **not** allowed to use tools like github copilot or chatGPT.
 
-<div class="container">
+<div class="container extra-space">
   <div class="row">
     <div class="col">
       <h3>Before the contest starts</h3>
