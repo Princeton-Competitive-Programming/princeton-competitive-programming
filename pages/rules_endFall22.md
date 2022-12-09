@@ -38,14 +38,14 @@ for the original problem, since this would be cheating. You are also
         you can skip the following steps.  </p>
 
       <ul>
-      <li>You will need to have an account on CodeForces in order to participate. Go to [https://codeforces.com/](https://codeforces.com/) and click on *Register* on the top left to do so.</li>
-      <li>Once you have an account, go to the Princeton Competitive Programming group on codeforces ([here](https://codeforces.com/group/hNnRWqFua0/contests)) and click on "Join" on the right.</li>
+      <li>You will need to have an account on CodeForces in order to participate. Go to <a href="https://codeforces.com/">https://codeforces.com/</a> and click on *Register* on the top left to do so.</li>
+      <li>Once you have an account, go to the Princeton Competitive Programming group on codeforces <a href="https://codeforces.com/group/hNnRWqFua0/contests">here</a> and click on "Join" on the right.</li>
       </ul>
 
     <p>Log in to your codeforces account and follow these steps:</p>
 
       <ul>
-      <li>Add your name and codeforces username to [this spreadsheet](https://docs.google.com/spreadsheets/d/1tytiZ-ye_ryFnou-ZHrEy11FjnhZr8qGzqhZ7xP-7XE/edit?usp=sharing).</li>
+      <li>Add your name and codeforces username to <a href="https://docs.google.com/spreadsheets/d/1tytiZ-ye_ryFnou-ZHrEy11FjnhZr8qGzqhZ7xP-7XE/edit?usp=sharing">this spreadsheet</a>.</li>
       <li>Decide whether you want to participate in the Division I or Division II contest. Please pick the one that suits you better, if you have never been to one of our past Princeton competitive programming sessions and have no or little experience in competitive programming, choose Division II, otherwise choose Division I. You are not allowed to change divisions after you pick one.</li>
       <li>Go to our [codeforces group page](https://codeforces.com/group/hNnRWqFua0/contests) and click on "Register" next to the division you picked. You should see a " Fall 22 - Div. 1 - Week #12 - End of Semester Contest" for Division I and " Fall 22 - Div. 2 - Week #12 - End of Semester Contest" for Division II.</li>
       </ul>
@@ -55,7 +55,7 @@ for the original problem, since this would be cheating. You are also
     <div class="col">
       <h3>During the contest</h3>
 
-      <p>Once the contest starts, you will be redirected to the contest page (if that doesn't happen click on "Enter" next to the contest on the codeforces group page). Here are some things to keep in mind:
+      <p>Once the contest starts, you will be redirected to the contest page (if that doesn't happen click on "Enter" next to the contest on the codeforces group page). Here are some things to keep in mind:</p>
 
       <ul>
         <li>The problems are sorted by expected difficulty, so problem A is no harder than problem B, and B no harder than C, and so on.</li>
