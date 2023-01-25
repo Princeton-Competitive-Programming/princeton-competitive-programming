@@ -7,7 +7,37 @@ layout: page
 
 ### Week 12 (December 9)
 
-<span class="badge text-bg-success fs-3">[Click here to participate in the contest!]({{ site.baseurl }}/rules)</span>
+## Winners
+
+ * 1st Place of Div I - Daniel Yang (4 problems solved)
+ * 2nd Place of Div I - Linus So (3 problems solved)
+ * 1st Place of Div II - Xander Gardner (5 problems solved)
+ * 2nd Place of Div II - Stephen Jiang (3 problems solved)
+
+Special prize winner - Joie Zhang (last solved problem)
+
+<div id="slideShow" class="carousel slide mb-2" data-bs-ride="true">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#slideShow" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#slideShow" data-bs-slide-to="1" aria-label="Slide 2"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ site.baseurl }}/files/photos_f22_w12/img_1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/files/photos_f22_w12/img_2.jpg" class="d-block w-100">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#slideShow" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#slideShow" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
 After 12 weeks of competitive programming we are finally at the end of
 the semester. To celebrate this occasion, we will have an end of
@@ -59,9 +89,6 @@ competitions from around the world, we won't have original problems in
 our contests unless otherwise mentioned. You shouldn't try to search
 for the original problem, since this would be cheating. You are also
 **not** allowed to use tools like github copilot or chatGPT.
-
-The contest links will be placed here just before the competition
-starts.
 
 ## Prizes
 
