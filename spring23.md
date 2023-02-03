@@ -27,16 +27,17 @@ contact [Pedro Paredes](https://www.cs.princeton.edu/~pparedes/)
 
 We have regular sessions every **Friday** from **5pm to 7:30pm** in
 TBD. You will need a laptop and optionally pen and paper to work on
-problems.
+problems. Also, you don't have to be there for the full two and a half
+hours, if you can only show up for an hour, please feel free to do so!
 
 Each session is divided into two groups: the division I group; and the
 division II group. You are free to choose whatever group you want and
 you can switch at any point.
 
  * **The division II** group is intended for those with little or no
-   competitive programming experience. Every week we will start with a
-   short **30 minute lecture** on some introductory topic in competitive
-   programming. Afterwards, we will have a **2 hour practice contest**
+   competitive programming experience. On most weeks we will start with a
+   **short lecture** on some introductory topic in competitive
+   programming. Afterwards, we will have a **practice contest**
    where you will work on a couple of problems, some of which will be
    related to the contents of the lecture.
 
