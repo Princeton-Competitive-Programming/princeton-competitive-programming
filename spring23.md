@@ -60,6 +60,7 @@ problems and contests).
 ## Schedule
 
 ### Week 1 (February 10)
+ * Short Lecture: <i>Introduction to Competitive Programming</i>
 
  * Division I contest: TBD
  
