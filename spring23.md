@@ -26,7 +26,8 @@ contact [Pedro Paredes](https://www.cs.princeton.edu/~pparedes/)
 ## Basic Information
 
 We have regular sessions every **Friday** from **5pm to 7:30pm** in
-CS105. You will need a laptop and optionally pen and paper to work on
+Friend Center 008 <span class="badge bg-primary">New room!</span>. You
+will need a laptop and optionally pen and paper to work on
 problems. Also, you don't have to be there for the full two and a half
 hours, if you can only show up for an hour, please feel free to do so!
 
@@ -59,9 +60,23 @@ problems and contests).
 
 ## Schedule
 
+### Week 3 (February 24)
+ * Short Lecture: <i>Sorting and BSTs</i>
+
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/429274)
+ 
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/429285)
+
+### Week 2 (February 17)
+ * Short Lecture: <i>Prefix sums</i> (by Raheem Idowu)
+
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/428084)
+ 
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/428083)
+
 ### Week 1 (February 10)
  * Short Lecture: <i>Introduction to Competitive Programming</i>
 
- * Division I contest: TBD
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/426972)
  
- * Division II contest: TBD
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/426970)
