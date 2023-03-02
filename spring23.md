@@ -36,27 +36,26 @@ division II group. You are free to choose whatever group you want and
 you can switch at any point.
 
  * **The division II** group is intended for those with little or no
-   competitive programming experience. On most weeks we will start with a
-   **short lecture** on some introductory topic in competitive
-   programming. Afterwards, we will have a **practice contest**
-   where you will work on a couple of problems, some of which will be
-   related to the contents of the lecture.
+   competitive programming experience. On most weeks we will start
+   with a **short lecture** on some introductory topic in competitive
+   programming. Afterwards, we will have a **practice problem solving
+   session** where you will work on a couple of problems, some of
+   which will be related to the contents of the lecture.
 
  * **The division I** is intended for those with experience in
      competitive programming. Each session consists in a **2.5 hour
-     contest** with problems of varying difficulties.
+     problem solving session** with problems of varying difficulties.
 
-Note that most contest problems have appeared before in other
-competitions from around the world. We won't have original problems in
-our contests unless otherwise mentioned.
+Note that most problems have appeared before in other
+competitions from around the world.
 
-Our contests are going to be hosted on a platform called
+Our sessions are going to be hosted on a platform called
 [codeforces](https://codeforces.com/). You will need an account in
 order to solve problems here. We also have a group you can join by
 going to the following link:
 [https://codeforces.com/group/hNnRWqFua0/](https://codeforces.com/group/hNnRWqFua0/)
 (you should click on *join* on the right in order to access the
-problems and contests).
+problems).
 
 ## Schedule
 
@@ -65,11 +64,11 @@ problems and contests).
 
  * Division I contest: TBD (topic: Segment Trees)
 
- * Division I reading materials: [Chapter 9.3 of CPH](https://usaco.guide/CPH.pdf#page=99) | [cp-algorithms article](https://cp-algorithms.com/data_structures/segment_tree.html)
+ * Division I reading materials: [Chapter 9.3 of CPH](https://usaco.guide/CPH.pdf#page=99) \| [cp-algorithms article](https://cp-algorithms.com/data_structures/segment_tree.html)
 
  * Division II contest: TBD (topic: Binary Search)
 
- * Division II reading materials: [cp-algorithms article](https://cp-algorithms.com/num_methods/binary_search.html) | [cs-academy article](https://csacademy.com/lesson/binary_search/)
+ * Division II reading materials: [cp-algorithms article](https://cp-algorithms.com/num_methods/binary_search.html) \| [cs-academy article](https://csacademy.com/lesson/binary_search/)
 
 ### Week 3 (February 24)
  * Short Lecture: <i>Sorting and BSTs</i>
