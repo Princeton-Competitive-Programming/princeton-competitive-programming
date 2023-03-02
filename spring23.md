@@ -60,6 +60,17 @@ problems and contests).
 
 ## Schedule
 
+### Week 4 (March 3)
+ * Short Lecture: *Binary Search*
+
+ * Division I contest: TBD (topic: Segment Trees)
+
+ * Division I reading materials: [Chapter 9.3 of CPH](https://usaco.guide/CPH.pdf#page=99) | [cp-algorithms article](https://cp-algorithms.com/data_structures/segment_tree.html)
+
+ * Division II contest: TBD (topic: Binary Search)
+
+ * Division II reading materials: [cp-algorithms article](https://cp-algorithms.com/num_methods/binary_search.html) | [cs-academy article](https://csacademy.com/lesson/binary_search/)
+
 ### Week 3 (February 24)
  * Short Lecture: <i>Sorting and BSTs</i>
 
