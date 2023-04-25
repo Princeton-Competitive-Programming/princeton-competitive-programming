@@ -59,14 +59,58 @@ problems).
 
 ## Schedule
 
+### Week 11 (April 28)
+* <span class="badge text-bg-success fs-3">End of Semester Special Constest - Prizes for the top students!</span>
+
+* [Link to the contest]({{ site.baseurl }}/final_spring_23)
+
+### Week 10 (April 21)
+ * Short Lecture: *Linear Recurrences*
+
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/439811)
+
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/439814)
+
+### Week 9 (April 14)
+ * Short Lecture: *Linear Recurrences*
+
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/438584) (topic: Linear Recurrences)
+
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/438561) (topic: Puzzles)
+
+### Week 8 (April 7)
+ * Short Lecture: *Maximum Flow Algorithms and Applications*
+
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/437409) (topic: Maxflow)
+
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/437411)
+
+### Week 7 (March 31)
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/436263) (topic: Strings)
+
+ * Division I reading materials: [cp-algorithms article on prefix function](https://cp-algorithms.com/string/prefix-function.html) \| [cp-algorithms article on string hashing](https://cp-algorithms.com/string/string-hashing.html)
+
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/430464) (topic: Math)
+
+ * Division II reading materials: [codeforces modular arithmetic article](https://codeforces.com/blog/entry/72527) \| [cp-algorithms article on mod inverse](https://cp-algorithms.com/algebra/module-inverse.html) \| [cp-algorithms article on sieves](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+
+### Week 6 (March 24)
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/435133)
+
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/435132)
+
+
+### Week 5 (March 10)
+ * Division I and II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/432070)
+
 ### Week 4 (March 3)
  * Short Lecture: *Binary Search*
 
- * Division I contest: TBD (topic: Segment Trees)
+ * Division I contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/430461) (topic: Segment Trees)
 
  * Division I reading materials: [Chapter 9.3 of CPH](https://usaco.guide/CPH.pdf#page=99) \| [cp-algorithms article](https://cp-algorithms.com/data_structures/segment_tree.html)
 
- * Division II contest: TBD (topic: Binary Search)
+ * Division II contest: [Link](https://codeforces.com/group/hNnRWqFua0/contest/430464) (topic: Binary Search)
 
  * Division II reading materials: [cp-algorithms article](https://cp-algorithms.com/num_methods/binary_search.html) \| [cs-academy article](https://csacademy.com/lesson/binary_search/)
 
