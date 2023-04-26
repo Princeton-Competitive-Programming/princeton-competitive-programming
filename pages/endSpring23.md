@@ -32,7 +32,8 @@ two hours, so it finishes at **7:10pm**, and it will take place in
 setup.
 
 We will have free pizza and snacks for everyone, just like we do every
-week.
+week. We will also give away boba <i class="bi bi-cup-straw"></i> in
+a first-come first-served basis.
 
 ## Contest Structure
 
