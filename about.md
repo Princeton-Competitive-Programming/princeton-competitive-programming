@@ -28,7 +28,7 @@ fosters a mindset of efficiency and creativity while tackling complex
 problems within tight deadlines. Additionally, participation enhances
 your resumes and opens doors to internships and job opportunities at
 top tech companies, making it a practical and rewarding investment in
-their future careers. It's also a great way to practice for teach
+their future careers. It's also a great way to practice for tech
 interviews.
 
 If you are interested in competing in university contests, check out
