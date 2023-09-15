@@ -30,7 +30,7 @@ contact [Pedro Paredes](https://www.cs.princeton.edu/~pparedes/)
 ## Basic Information
 
 We have regular sessions every **Friday** from **5pm to 7:30pm** in
-Friend Center (room to be announced soon). You will need a laptop and
+**Friend Center Room 006**. You will need a laptop and
 optionally pen and paper to work on problems. Also, you don't have to
 be there for the full two and a half hours, if you can only show up
 for an hour, please feel free to do so!
