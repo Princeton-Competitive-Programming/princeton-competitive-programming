@@ -66,6 +66,6 @@ problems).
 ### Week 1 (September 15)
  * Short lecture for first-timers (**starting at 5pm sharp**): <i>Introduction to Competitive Programming</i>
 
- * Division I problems: Link coming soon
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/473412) [Solutions]({{ site.baseurl }}/files/F23 W1 D1 - Solutions.pdf)
  
- * Division II problems: Link coming soon
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/473403) [Solutions]({{ site.baseurl }}/files/F23 W1 D2 - Solutions.pdf)
