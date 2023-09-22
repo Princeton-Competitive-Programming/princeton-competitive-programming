@@ -4,10 +4,6 @@ layout: page
 
 {% include main_title.html text="Fall 23 Sessions" %}
 
-<div class="alert alert-primary text-center" role="alert">
-  First session on September 15!
-</div>
-
 In the Fall of 2023 we are hosting a problem solving session every
 Friday from 5pm to 7:30pm (more information about this below). This is
 open to everyone interested in competitive programming, regardless of
@@ -62,6 +58,13 @@ going to the following link:
 problems).
 
 ## Schedule
+
+### Week 1 (September 22)
+ * Short lecture aimed at division II (**starting at 5pm sharp**): <i>Binary Search Techniques</i>
+
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474768) Solutions
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474760) Solutions
 
 ### Week 1 (September 15)
  * Short lecture for first-timers (**starting at 5pm sharp**): <i>Introduction to Competitive Programming</i>
