@@ -62,13 +62,13 @@ problems).
 ### Week 1 (September 22)
  * Short lecture aimed at division II (**starting at 5pm sharp**): <i>Binary Search Techniques</i>
 
- * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474768) | [Solutions]({{ site.baseurl }}/files/F23 W2 D1 - Solutions.pdf)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474768) \| [Solutions]({{ site.baseurl }}/files/F23 W2 D1 - Solutions.pdf)
  
- * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474760) | [Solutions]({{ site.baseurl }}/files/F23 W2 D1 - Solutions.pdf)
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474760) \| [Solutions]({{ site.baseurl }}/files/F23 W2 D2 - Solutions.pdf)
 
 ### Week 1 (September 15)
- * Short lecture for first-timers (**starting at 5pm sharp**): <i>Introduction to Competitive Programming</i> | [Slides]({{ site.baseurl }}/files/introF23.pdf)
+ * Short lecture for first-timers (**starting at 5pm sharp**): <i>Introduction to Competitive Programming</i> \| [Slides]({{ site.baseurl }}/files/introF23.pdf)
 
- * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/473412) | [Solutions]({{ site.baseurl }}/files/F23 W1 D1 - Solutions.pdf)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/473412) \| [Solutions]({{ site.baseurl }}/files/F23 W1 D1 - Solutions.pdf)
  
- * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/473403) | [Solutions]({{ site.baseurl }}/files/F23 W1 D2 - Solutions.pdf)
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/473403) \| [Solutions]({{ site.baseurl }}/files/F23 W1 D2 - Solutions.pdf)
