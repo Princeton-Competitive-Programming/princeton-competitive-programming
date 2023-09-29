@@ -62,7 +62,7 @@ problems).
 ### Week 3 (September 29)
  * Themed problems aimed at division II: <i>Sorting Problems</i>
 
- * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476137) \| Solutions
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476137) \| [Solutions]({{ site.baseurl }}/files/F23 W3 D1 - Solutions.pdf)
  
  * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476296) \| Solutions
 
