@@ -59,7 +59,14 @@ problems).
 
 ## Schedule
 
-### Week 1 (September 22)
+### Week 3 (September 29)
+ * Themed problems aimed at division II: <i>Sorting Problems</i>
+
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476137) \| Solutions
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476296) \| Solutions
+
+### Week 2 (September 22)
  * Short lecture aimed at division II (**starting at 5pm sharp**): <i>Binary Search Techniques</i>
 
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474768) \| [Solutions]({{ site.baseurl }}/files/F23 W2 D1 - Solutions.pdf)
