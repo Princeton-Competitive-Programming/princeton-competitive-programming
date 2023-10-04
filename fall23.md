@@ -59,6 +59,13 @@ problems).
 
 ## Schedule
 
+### Week 4 (October 6)
+ * [ICPC Selection]({{ site.baseurl }}/icpc23): Contest \| Solutions
+
+ * Division I problems: Contest \| Solutions
+ 
+ * Division II problems: Contest \| Solutions
+
 ### Week 3 (September 29)
  * Themed problems aimed at division II: <i>Sorting Problems</i>
 
