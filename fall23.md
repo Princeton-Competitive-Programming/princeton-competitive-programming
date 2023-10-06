@@ -60,7 +60,7 @@ problems).
 ## Schedule
 
 ### Week 4 (October 6)
- * [ICPC Selection]({{ site.baseurl }}/icpc23): Contest \| Solutions
+ * [ICPC Selection]({{ site.baseurl }}/icpc23): Contest \| [Solutions]({{ site.baseurl }}/files/F23 ICPC Selection Solutions.pdf)
 
  * Division I problems: Contest \| Solutions
  
