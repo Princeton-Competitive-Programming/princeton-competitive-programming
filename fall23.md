@@ -59,26 +59,31 @@ problems).
 
 ## Schedule
 
-### Week 4 (October 6)
- * [ICPC Selection]({{ site.baseurl }}/icpc23): Contest \| [Solutions]({{ site.baseurl }}/files/F23 ICPC Selection Solutions.pdf)
+### Week 5 (October 13)
+ * No theme this week, we'll solve different types of problems!
 
  * Division I problems: Contest \| Solutions
  
- * Division II problems: Contest \| Solutions
+ * Division II problems: Contest \| Solutions \| Hints
+
+### Week 4 (October 6)
+ * Division I and [ICPC Selection]({{ site.baseurl }}/icpc23) problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/477358) \| [Solutions]({{ site.baseurl }}/files/F23 ICPC Selection Solutions.pdf)
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/477608) \| [Solutions]({{ site.baseurl }}/files/F23 W4 D2 - Solutions.pdf) \| [Hints]({{ site.baseurl }}/basic_ds_f23)
 
 ### Week 3 (September 29)
  * Themed problems aimed at division II: <i>Sorting Problems</i>
 
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476137) \| [Solutions]({{ site.baseurl }}/files/F23 W3 D1 - Solutions.pdf)
  
- * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476296) \| Solutions
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/476296) \| [Solutions]({{ site.baseurl }}/files/F23 W3 D2 - Solutions.pdf) \| [Hints]({{ site.baseurl }}/sorting_f23)
 
 ### Week 2 (September 22)
  * Short lecture aimed at division II (**starting at 5pm sharp**): <i>Binary Search Techniques</i>
 
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474768) \| [Solutions]({{ site.baseurl }}/files/F23 W2 D1 - Solutions.pdf)
  
- * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474760) \| [Solutions]({{ site.baseurl }}/files/F23 W2 D2 - Solutions.pdf)
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/474760) \| [Solutions]({{ site.baseurl }}/files/F23 W2 D2 - Solutions.pdf) \| [Hints]({{ site.baseurl }}/binary_search_f23)
 
 ### Week 1 (September 15)
  * Short lecture for first-timers (**starting at 5pm sharp**): <i>Introduction to Competitive Programming</i> \| [Slides]({{ site.baseurl }}/files/introF23.pdf)

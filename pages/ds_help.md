@@ -1,5 +1,5 @@
 ---
-permalink: /baisc_ds_f23
+permalink: /basic_ds_f23
 layout: page
 ---
 
