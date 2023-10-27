@@ -59,6 +59,13 @@ problems).
 
 ## Schedule
 
+### Week 6 (October 27)
+ * Themed problems aimed at division II: <i>Greedy Algorithms</i>
+
+ * Division I problems: Contest \| Solutions
+ 
+ * Division II problems: Contest \| Solutions \| [Hints]({{ site.baseurl }}/greedy_f23)
+
 ### Week 5 (October 13)
  * No theme this week, we'll solve different types of problems!
 
