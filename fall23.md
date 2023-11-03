@@ -59,6 +59,13 @@ problems).
 
 ## Schedule
 
+### Week 7 (November 3)
+ * Themed problems aimed at division II: <i>Graph Search</i>
+
+ * Division I problems: Contest \| Solutions
+ 
+ * Division II problems: Contest \| Solutions \| Hints
+
 ### Week 6 (October 27)
  * Themed problems aimed at division II: <i>Greedy Algorithms</i>
 
