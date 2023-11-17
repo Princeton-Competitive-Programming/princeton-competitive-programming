@@ -59,6 +59,13 @@ problems).
 
 ## Schedule
 
+### Week 8 (November 17)
+ * Themed problems aimed at division II: <i>Dynamic Programming</i>
+
+ * Division I problems: Contest \| Solutions
+ 
+ * Division II problems: Contest \| Solutions \| Hints
+
 ### Week 7 (November 3)
  * Themed problems aimed at division II: <i>Graph Search</i>
 
