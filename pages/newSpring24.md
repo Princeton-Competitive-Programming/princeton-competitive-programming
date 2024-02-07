@@ -1,5 +1,5 @@
 ---
-permalink: /hello_spring_23
+permalink: /hello_spring_24
 layout: page
 ---
 
