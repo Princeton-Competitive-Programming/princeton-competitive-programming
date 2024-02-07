@@ -60,7 +60,12 @@ problems).
 
 ## Schedule
 
+### Week 2 (February 9)
+* <span class="badge text-bg-success fs-3">Welcome Spring Special Constest - Prizes for the top students!</span>
+
+* [Link to the contest]({{ site.baseurl }}/hello_spring_24)
+
 ### Week 1 (February 2)
- * Division I problems: Contest \| Solutions
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502119) \| \| [Hints]({{ site.baseurl }}/dp_s24)
  
- * Division II problems: Contest \| Solutions
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502100) \| [Hints]({{ site.baseurl }}/ps_s24)
