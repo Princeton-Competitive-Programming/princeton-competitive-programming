@@ -65,7 +65,13 @@ problems).
 
 * [Link to the contest]({{ site.baseurl }}/hello_spring_24)
 
+* Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/503448) \| [Solutions]({{ site.baseurl }}/files/S24 W2 D1 - Solutions.pdf)
+ 
+* Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/503451) \| [Solutions]({{ site.baseurl }}/files/S24 W2 D2 - Solutions.pdf)
+
+* Division III problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/503615) \| [Solutions]({{ site.baseurl }}/files/S24 W2 D3 - Solutions.pdf)
+
 ### Week 1 (February 2)
- * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502119) \| \| [Hints]({{ site.baseurl }}/dp_s24)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502119) \| [Hints]({{ site.baseurl }}/dp_s24)
  
  * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502100) \| [Hints]({{ site.baseurl }}/ps_s24)
