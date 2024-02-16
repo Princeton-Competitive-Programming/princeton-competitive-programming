@@ -60,6 +60,11 @@ problems).
 
 ## Schedule
 
+### Week 3 (February 16)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/504935) \| [Hints]({{ site.baseurl }}/trees_s24) - Topic: Trees
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/504921) \| [Hints]({{ site.baseurl }}/basic_ds_f23) - Topic: Fundamental Data Structures
+
 ### Week 2 (February 9)
 * <span class="badge text-bg-success fs-3">Welcome Spring Special Constest - Prizes for the top students!</span>
 
@@ -72,6 +77,6 @@ problems).
 * Division III problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/503615) \| [Solutions]({{ site.baseurl }}/files/S24 W2 D3 - Solutions.pdf)
 
 ### Week 1 (February 2)
- * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502119) \| [Hints]({{ site.baseurl }}/dp_s24)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502119) \| [Hints]({{ site.baseurl }}/dp_s24) - Topic: Dynamic Programming
  
- * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502100) \| [Hints]({{ site.baseurl }}/ps_s24)
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/502100) \| [Hints]({{ site.baseurl }}/ps_s24) - Topic: Prefix Sums
