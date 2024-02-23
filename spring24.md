@@ -60,6 +60,13 @@ problems).
 
 ## Schedule
 
+### Week 4 (February 23) DIFFERENT ROOM: CS 105
+ * Lecture on Square Root Techniques: Slides
+
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/506308)
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/506354)
+
 ### Week 3 (February 16)
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/504935) \| [Hints]({{ site.baseurl }}/trees_s24) - Topic: Trees
  
