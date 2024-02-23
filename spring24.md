@@ -61,7 +61,7 @@ problems).
 ## Schedule
 
 ### Week 4 (February 23) DIFFERENT ROOM: CS 105
- * Lecture on Square Root Techniques: Slides
+ * Lecture on Square Root Techniques: [Slides]({{ site.baseurl }}/files/Square_Root_Techniques.pdf)
 
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/506308)
  
