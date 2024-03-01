@@ -3,7 +3,7 @@ permalink: /graphs_f23
 layout: page
 ---
 
-{% include main_title.html text="Greedy Algorithms" %}
+{% include main_title.html text="Graph Algorithms" %}
 
 ## Hints for problem A. Biggest Island
 
