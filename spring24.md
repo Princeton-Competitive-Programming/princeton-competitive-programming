@@ -60,6 +60,21 @@ problems).
 
 ## Schedule
 
+### Week 8 (March 29) DIFFERENT ROOM: CS 105
+ * Division I problems:
+ 
+ * Division II problems:
+
+### Week 7 (March 22)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/512760)
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/512984)
+
+### Week 6 (March 8)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/509398)
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/509399)
+
 ### Week 5 (March 1)
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/507615) \| [Hints]({{ site.baseurl }}/adv_graphs_s24) - Topic: Graphs
  
