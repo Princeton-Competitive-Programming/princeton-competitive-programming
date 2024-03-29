@@ -1,5 +1,5 @@
 ---
-permalink: /graphs_s24
+permalink: /graph_s24
 layout: page
 ---
 
