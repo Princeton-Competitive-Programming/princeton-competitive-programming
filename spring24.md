@@ -60,10 +60,15 @@ problems).
 
 ## Schedule
 
-### Week 8 (March 29) DIFFERENT ROOM: CS 105
- * Division I problems:
+### Week 9 (April 5)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/516003)
  
- * Division II problems:
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/516059) \| [Hints]({{ site.baseurl }}/mstsp_s24) - Topic: MST and Shortest Paths
+
+### Week 8 (March 29) DIFFERENT ROOM: CS 105
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/514487)
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/514322) \| [Hints]({{ site.baseurl }}/graph_s24) - Topic: Graph Search
 
 ### Week 7 (March 22)
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/512760)
