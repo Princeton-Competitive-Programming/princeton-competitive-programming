@@ -60,6 +60,11 @@ problems).
 
 ## Schedule
 
+### Week 10 (April 12)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/517466)
+ 
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/517469) \| [Hints]({{ site.baseurl }}/dp_s24) - Topic: Dynamic Programming
+
 ### Week 9 (April 5)
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/516003)
  
