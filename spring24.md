@@ -60,6 +60,11 @@ problems).
 
 ## Schedule
 
+### Week 11 (April 19) DIFFERENT ROOM: CS 105
+ * Division I problems: Contest
+ 
+ * Division II problems: Contest
+
 ### Week 10 (April 12)
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/517466)
  
