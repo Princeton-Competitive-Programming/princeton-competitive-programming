@@ -60,10 +60,13 @@ problems).
 
 ## Schedule
 
-### Week 11 (April 19) DIFFERENT ROOM: CS 105
- * Division I problems: Contest
+### Week 12 (April 26) (Last session)
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/520661)
  
- * Division II problems: Contest
+ * Division II problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/519029)
+
+### Week 11 (April 19) DIFFERENT ROOM: CS 105
+ * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/519028)
 
 ### Week 10 (April 12)
  * Division I problems: [Contest](https://codeforces.com/group/hNnRWqFua0/contest/517466)
