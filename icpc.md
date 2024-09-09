@@ -17,15 +17,15 @@ which culminate in the ICPC World Finals. Here's a general outline of
 the progression:
 
 * **Local Qualifier**: The journey begins with a local selection
-    contest which will be held in Princeton in the **first week of
-    October** (more details to be announced soon). You will be able to
-    participate as a team or individually in this contest and 5 teams
-    will be selected to represent Princeton at the next stage.
+    contest which will be held in Princeton in the Fall (more details
+    to be announced soon). You will be able to participate as a team
+    or individually in this contest and 5 teams will be selected to
+    represent Princeton at the next stage.
 
 * **Greater New York Regional Contest**: The selected teams then
     advance to the regional contest. This will be held on **Sunday,
-    October 29** at Columbia University. Here is the [contest
-    website](http://acmgnyr.org/year2022/) from last year. The top ~5
+    November 10** at Columbia University. Here is the [contest
+    website](https://gny.na.icpc.global/) from last year. The top ~5
     teams (this varies slightly every year) will qualify for the next
     stage, but only one per university (so if teams from Princeton
     place first and second overall, only the first team will advance).
@@ -43,7 +43,7 @@ the progression:
     global gathering of top student programmers. The date for next
     year's world finals is yet to be announced. Here is the [contest
     website](https://worldfinals.icpc.global) (which currently
-    contains information about the 2023 edition, for which teams
+    contains information about the 2024 edition, for which teams
     qualified this past year).
 
 For some statistics on Princeton past performances on the ICPC check
