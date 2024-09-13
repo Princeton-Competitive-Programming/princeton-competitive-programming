@@ -18,10 +18,6 @@ Prerequisites: You should know how to program in some language and
 know the basics of order of growth notation (namely big theta
 notation).
 
-# Example Problem Structure in Competitive Programming
-
-In competitive programming, problems are presented in a specific format designed to clearly communicate the task to be solved, input/output details, constraints, and test cases. Here's a detailed look at how a typical problem is structured.
-
 ## Problem Structure
 
 A problem statement is usually divided into 6 sections:
