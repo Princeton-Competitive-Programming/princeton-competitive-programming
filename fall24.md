@@ -55,6 +55,6 @@ If you have never participated in a session, check out the
 ## Schedule
 
 ### Week 1 (September 13)
- * Compete Division: Problems \| Hints
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/549920)
  
- * Learn Division: Guide
+ * Learn Division: [Guide]({{ site.baseurl }}/fall24/week1_learn

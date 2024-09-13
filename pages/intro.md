@@ -83,7 +83,7 @@ will be categorized into one of the following:
 Given an sequence $a$ of $n$ integers, find the sum of all elements in the sequence.
 
 **Input Format:**
-The first line contains an integer $n$ ($1 \leq n \leq 10^6$) - the number of integers in the sequence.
+The first line contains an integer $n$ ($1 \leq n \leq 10^5$) - the number of integers in the sequence.
 
 The second line contains $n$ integers separated by spaces - the
 integers in the sequence. The value of a sequence elements is bounded by: $-10^6 \leq a_i \leq 10^6$.
@@ -132,10 +132,10 @@ libraries:
 ```java
 Scanner sc = new Scanner(System.in);
 int n = sc.nextInt();
-int[] arr = new int[n];
+int[] a = new int[n];
 
 for (int i = 0; i < n; i++) {
-    arr[i] = sc.nextInt();
+    a[i] = sc.nextInt();
 }
 ```
 
@@ -159,14 +159,14 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-	int[] arr = new int[n];
+	int[] a = new int[n];
 	for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
+            a[i] = sc.nextInt();
         }
 
         int sum = 0;
         for (int i = 0; i < n; i++) {
-            sum += arr[i];
+            sum += a[i];
         }
         System.out.println(sum);
     }
@@ -194,7 +194,7 @@ sessions. To join this group, go to the following
 [link](https://codeforces.com/group/hNnRWqFua0/) and click on the
 *join* button on the right in order to access the problems.
 
-Now, here is the [link](codeforces.com) to the above problem. Tip: the
+Now, here is the [link](https://codeforces.com/group/hNnRWqFua0/contest/549915/problem/A) to the above problem. Tip: the
 "Group Contests" is annoying because it's really long, minimize it by
 clicking on the arrow in the top right corner. Look at the panels on
 the right, and scroll down to the one called "Submit?". Pick your
@@ -229,7 +229,7 @@ number of indices $1 \leq i \leq n$ and $1 \leq j \leq n$ such that $i
 \neq j$ and $a_i + a_j$ is odd.
 
 **Input Format:**
-The first line contains an integer $n$ ($1 \leq n \leq 10^7$) - the number of integers in the sequence.
+The first line contains an integer $n$ ($1 \leq n \leq 10^6$) - the number of integers in the sequence.
 
 The second line contains $n$ integers separated by spaces - the
 integers in the sequence. The value of a sequence elements is bounded by: $0 \leq a_i \leq 10^9$.
@@ -240,7 +240,7 @@ number of pairs of elements that sum to an odd number.
 
 **Sample Input:**
 ```
-5
+4
 1 2 3 2
 ```
 
@@ -268,16 +268,17 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-	int[] arr = new int[n];
+	int[] a = new int[n];
 	for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
+            a[i] = sc.nextInt();
         }
 
 	long result = 0;
 	for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-	    if ((a[i] + a[j]) != 0)
-		result++;
+                if ((a[i] + a[j]) % 2 != 0)
+                    result++;
+            }
         }
 	
         System.out.println(result);
@@ -286,7 +287,7 @@ public class Main {
 ```
 
 You might right away guess that this solution won't be good enough,
-but try to submit it anyways, here is the [link](codeforces.com) to
+but try to submit it anyways, here is the [link](https://codeforces.com/group/hNnRWqFua0/contest/549915/problem/B) to
 the problem. You will get a *Time Limit Exceeded* verdict, which means
 this solution is too slow.
 
@@ -320,7 +321,7 @@ Here's a rough guide for how many operations are allowed within a
 
 You can use these estimates to decide if an algorithm will meet the
 time requirements. For example, for out previous solution of
-$\Theta(n^2)$, since $n$ is up to $10^7$, it was bound to time out.
+$\Theta(n^2)$, since $n$ is up to $10^6$, it was bound to time out.
 
 You don't have to memorize this guide right away, but you'll gradually
 learn it as you apply it.
@@ -344,9 +345,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-	int[] arr = new int[n];
+	int[] a = new int[n];
 	for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
+            a[i] = sc.nextInt();
         }
 
 	long evens = 0;
