@@ -15,6 +15,10 @@ competitive programming sessions, please follow the instruction on our
 new [introduction guide]({{ site.baseurl }}/intro_guide) to get
 started.
 
+Here is the
+[link](https://codeforces.com/group/hNnRWqFua0/contest/549922) to the
+problems.
+
 ## Problem 1 - Target Practice
 
 This is an implementation problem, you don't have to do anything too

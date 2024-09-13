@@ -50,7 +50,11 @@ want and you can switch at any point.
 
 
 If you have never participated in a session, check out the
-[introduction guide]({{ site.baseurl }}/intro_guide).
+[introduction guide]({{ site.baseurl }}/intro_guide). We also have a
+codeforces group you can join by going to the following link:
+[https://codeforces.com/group/hNnRWqFua0/](https://codeforces.com/group/hNnRWqFua0/)
+(you should click on *join* on the right in order to access the
+problems).
 
 ## Schedule
 
