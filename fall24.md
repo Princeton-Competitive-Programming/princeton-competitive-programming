@@ -55,6 +55,6 @@ If you have never participated in a session, check out the
 ## Schedule
 
 ### Week 1 (September 13)
- * Compete Division: Problems | Hints
+ * Compete Division: Problems \| Hints
  
  * Learn Division: Guide
