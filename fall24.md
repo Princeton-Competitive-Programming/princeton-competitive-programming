@@ -58,7 +58,12 @@ problems).
 
 ## Schedule
 
-### Week 1 (September 13)
- * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/549920)
+### Week 2 (September 20)
+ * Compete Division: Problems \| Solutions
  
- * Learn Division: [Guide]({{ site.baseurl }}/fall24/week1_learn)
+ * Learn Division: Problems \| Solutions
+
+### Week 1 (September 13)
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/549920) \| [Solutions]({{ site.baseurl }}/files/F24 W1 Compete - Solutions.pdf)
+ 
+ * Learn Division: [Problems]({{ site.baseurl }}/fall24/week1_learn) \| [Solutions]({{ site.baseurl }}/fall24/week1_learn/solutions)
