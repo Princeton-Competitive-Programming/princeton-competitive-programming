@@ -22,7 +22,9 @@ competitive programming sessions, please follow the instruction on our
 new [introduction guide]({{ site.baseurl }}/intro_guide) to get
 started. Once you're done, feel free to come back here.
 
-## Problem A - Exam Room
+Problem set [link](https://codeforces.com/group/hNnRWqFua0/contest/551614).
+
+## Problem A - [Exam Room](https://codeforces.com/group/hNnRWqFua0/contest/551614/problem/A)
 
 In this problem you'll have to apply sorting plus a simple
 calculation. Read the problem now if you haven't already.
@@ -36,7 +38,7 @@ the deafult sorting algorithm from your favorite programming
 language. Here is a [link](https://usaco.guide/bronze/intro-sorting)
 where you can learn about this (select your language at the top).
 
-## Problem B - Pizza Line
+## Problem B - [Pizza Line](https://codeforces.com/group/hNnRWqFua0/contest/551614/problem/B)
 
 Read the problem now if you haven't already.
 
@@ -61,7 +63,7 @@ in fact you can modify the merge algorithm to count inversions. To
 generalize this to any array, just use this modified
 merge-inversion-count algorithm as a subroutine of merge sort.
 
-## Problem C - Class Schedule
+## Problem C - [Class Schedule](https://codeforces.com/group/hNnRWqFua0/contest/551614/problem/C)
 
 For this problem you will need to know about a technique called *sweep
 line*. You can find information about this in [chapter 30 of the
@@ -76,7 +78,7 @@ above reading, but here you need to compute the length of the union of
 all the intervals. The solution is very similar, so think about how
 you can adapt the ideas from the reading to this problem.
 
-## Problem D - Painting Fence
+## Problem D - [Painting Fence](https://codeforces.com/group/hNnRWqFua0/contest/551614/problem/D)
 
 This next problem will graduate from sorting into a more general
 technique known as "Divide and Conquer". This is the main concept that
@@ -105,7 +107,7 @@ handle the subfences? Well, note that it's the same problem that we
 started with, but on a smaller input! So we just divided it. We'll
 leave the rest of the solution up to you.
 
-## Problem E - Permutation Graph
+## Problem E - [Permutation Graph](https://codeforces.com/group/hNnRWqFua0/contest/551614/problem/E)
 
 If you got here and solved all the previous problems, great job! If
 you haven't solved one of the previous problems go back and solve it
