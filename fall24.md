@@ -58,10 +58,15 @@ problems).
 
 ## Schedule
 
-### Week 2 (September 20)
- * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/551615) \| Solutions
+### Week 3 (September 27)
+ * Compete Division: Problems \| Hints \| Solutions
  
- * Learn Division: [Problems]({{ site.baseurl }}/fall24/week2_learn) \| Solutions
+ * Learn Division: Problems \| Solutions
+
+### Week 2 (September 20)
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/551615) \| [Hints]({{ site.baseurl }}/fall24/week2_compete) \| [Solutions]({{ site.baseurl }}/files/F24 W2 Compete - Solutions.pdf)
+ 
+ * Learn Division (Sorting and Divide and Conquer): [Problems]({{ site.baseurl }}/fall24/week2_learn) \| [Solutions]({{ site.baseurl }}/fall24/week2_learn/solutions)
 
 ### Week 1 (September 13)
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/549920) \| [Solutions]({{ site.baseurl }}/files/F24 W1 Compete - Solutions.pdf)
