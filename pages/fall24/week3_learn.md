@@ -29,16 +29,19 @@ searching. As you know, in order to binary search over something, we
 need that something to be sorted, so this first problem is about
 sorting. Read the problem if you haven't already.
 
-If you aren't quite sure how to solve it, here is a hint. Note that
-after doing any number of operations, all the indices containing odd
-numbers still contain odd numbers and all indices containing even
-numbers also contain even numbers. This observation should tell you
-something about whether you can do it or not (look at the sorted array
-and see if it satisfies it).
+Given the constraint on $n$, you need a solution that runs in
+$\Theta(n \log n)$ or better. If you aren't quite sure how to solve
+it, here is a hint. Note that after doing any number of operations,
+all the indices containing odd numbers still contain odd numbers and
+all indices containing even numbers also contain even numbers. This
+observation should tell you something about whether you can do it or
+not (look at the sorted array and see if it satisfies it).
 
-## Problem B - [Course Selection](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/A)
+## Problem B - [Course Selection](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/B)
 
-Read the problem now if you haven't already.
+Read the problem now if you haven't already. Given the constraints,
+you need to solve this in time $\Theta(N \log Q)$ or $\Theta(Q \log
+N)$ or better.
 
 This is a typical binary search problem. If you need a reminder on
 binary search, read the section on binary search of this
@@ -58,9 +61,11 @@ answer", which is a very powerful and useful technique you will need
 for this and the remaining problems. First, read chapter 12 of these
 [notes](https://darrenyao.com/usacobook/java.pdf#page=68).
 
-Read the problem now if you haven't. The idea you need here is similar
-to the example from the reading. To apply the binary search the answer
-technique here we need two things:
+Read the problem now if you haven't. Given the constraint on $n$ and
+$t$, you need a solution that runs in $\Theta(n \log t)$ or
+better. The idea you need here is similar to the example from the
+reading. To apply the binary search the answer technique here we need
+two things:
 
 * Turn the problem into a decision problem (i.e. `check` method like
 in the first pseudocode example from the reading). In this case it
@@ -79,7 +84,8 @@ answer might not fit in an integer)!
 
 ## Problem D - [Kayaking Trip](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/D)
 
-Read the problem.
+Read the problem. Given the constraints on $b+n+e$, you need a solution
+that runs in $\Theta((b+n+e) \log (b + n + e))$ or better
 
 Again the trick here is to binary search over the answer (i.e. the
 maximum speed of the slowest kayak). This problem is certainly more
@@ -102,9 +108,12 @@ $v$. Think about why this works, it's not obvious.
 
 ## Problem E - [The Meeting Place Cannot Be Changed](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/E)
 
-Read the problem.
+Read the problem. Given the constraint on $n$, you need a solution
+that runs in $\Theta(n \log (\max x + \max v))$ or better
 
-Same goal as before, so you know the gist. Keep reading for a hint.
+Same goal as before, so you know the gist. There is one difference
+here, which is that the answer isn't necessarily an integer, but the
+idea is the same. Keep reading for a hint.
 
 Let's try to check if it is possible to meet within $t$ seconds. In
 this time, the $i$th friend can get anywhere within the segment

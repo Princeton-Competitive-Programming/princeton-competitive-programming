@@ -232,7 +232,7 @@ number of indices $1 \leq i \leq n$ and $1 \leq j \leq n$ such that $i
 The first line contains an integer $n$ ($1 \leq n \leq 10^6$) - the number of integers in the sequence.
 
 The second line contains $n$ integers separated by spaces - the
-integers in the sequence. The value of a sequence elements is bounded by: $0 \leq a_i \leq 10^9$.
+integers in the sequence. The value of a sequence element is bounded by: $0 \leq a_i \leq 10^9$.
 
 **Output Format:**
 The output should contain a single integer: the
@@ -249,10 +249,9 @@ number of pairs of elements that sum to an odd number.
 4
 ```
 
-**Sample Explanation:**
-The following pairs of numbers sum to an odd number: $1$ and $2$ (the
-first one), $1$ and $2$ (the first one), $1$ and $2$ (the second one),
-$2$ and $3$, and $3$ and $2$.
+**Sample Explanation:** The following pairs of numbers sum to an odd
+number: $1$ and $2$ (the first one), $1$ and $2$ (the second one), $2$
+and $3$, and $3$ and $2$.
 
 ## First Attempt
 
@@ -320,7 +319,7 @@ Here's a rough guide for how many operations are allowed within a
 | $n \leq 10^{18}$ | $\Theta(\log^2 n)$, $\Theta(\log n)$, $\Theta(1)$ |
 
 You can use these estimates to decide if an algorithm will meet the
-time requirements. For example, for out previous solution of
+time requirements. For example, our previous solution of
 $\Theta(n^2)$, since $n$ is up to $10^6$, it was bound to time out.
 
 You don't have to memorize this guide right away, but you'll gradually
@@ -328,7 +327,7 @@ learn it as you apply it.
 
 ### A Linear Solution
 
-Let's now improve the previous solution. They observation we need to
+Let's now improve the previous solution. The observation we need to
 solve the previous problem in linear time is the following: in order
 for two integers to sum to an odd number, they need to have different
 parities. So instead of counting pairs of numbers, we can count the
