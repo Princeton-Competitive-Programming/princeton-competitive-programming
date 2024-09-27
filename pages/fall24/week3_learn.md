@@ -20,9 +20,9 @@ competitive programming sessions, please follow the instruction on our
 new [introduction guide]({{ site.baseurl }}/intro_guide) to get
 started. Once you're done, feel free to come back here.
 
-Problem set [link]().
+Problem set [link](https://codeforces.com/group/hNnRWqFua0/contest/553384).
 
-## Problem A - [Parity Sort]()
+## Problem A - [Parity Sort](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/A)
 
 This first problem is a warm up problem that isn't really about binary
 searching. As you know, in order to binary search over something, we
@@ -36,7 +36,7 @@ numbers also contain even numbers. This observation should tell you
 something about whether you can do it or not (look at the sorted array
 and see if it satisfies it).
 
-## Problem B - [Course Selection]()
+## Problem B - [Course Selection](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/A)
 
 Read the problem now if you haven't already.
 
@@ -50,7 +50,7 @@ specific course numbers within a sorted list of course numbers. After
 reading the input data, use binary search to check if a query course
 number exists in the list.
 
-## Problem C - [Dining Halls]()
+## Problem C - [Dining Halls](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/C)
 
 This problem is the first one where you won't use binary search on an
 array. This problem requires a technique known as "binary search the
@@ -77,7 +77,7 @@ method and determine appropriate upper and lower bounds for the any
 possible answer. With the latter, be careful with overflows (the
 answer might not fit in an integer)!
 
-## Problem D - [Kayaking Trip]()
+## Problem D - [Kayaking Trip](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/D)
 
 Read the problem.
 
@@ -100,7 +100,7 @@ will have to be assigned two people, so give it the two people with
 lowest strengths such that the resulting velocity is at least
 $v$. Think about why this works, it's not obvious.
 
-## Problem E - [The Meeting Place Cannot Be Changed]()
+## Problem E - [The Meeting Place Cannot Be Changed](https://codeforces.com/group/hNnRWqFua0/contest/553384/problem/E)
 
 Read the problem.
 

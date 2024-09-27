@@ -59,9 +59,9 @@ problems).
 ## Schedule
 
 ### Week 3 (September 27)
- * Compete Division: Problems \| Hints \| Solutions
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/553386) \| [Hints]({{ site.baseurl }}/fall24/week3_compete) \| Solutions
  
- * Learn Division: Problems \| Solutions
+ * Learn Division: [Problems]({{ site.baseurl }}/fall24/week3_learn) \| Solutions
 
 ### Week 2 (September 20)
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/551615) \| [Hints]({{ site.baseurl }}/fall24/week2_compete) \| [Solutions]({{ site.baseurl }}/files/F24 W2 Compete - Solutions.pdf)
