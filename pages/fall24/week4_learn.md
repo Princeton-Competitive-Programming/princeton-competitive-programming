@@ -6,10 +6,8 @@ layout: page
 {% include main_title.html text="Fall 24 - Learn Division Week 4" %}
 
 Welcome to the fourth week of competitive programming of the Fall of
-2024! Today's problem solving session will be about the concept of
-binary search. You probably know about binary search as a way to find
-elements in an array, but we will use this concept in a more general
-way today.
+2024! Today's problem solving session will be about data
+structures. Read the introduction below before getting started.
 
 Before reading a problem, read its accompanying description available
 below. Work through the problems one by one, i.e. don't try working on

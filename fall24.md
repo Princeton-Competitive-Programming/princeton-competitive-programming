@@ -59,9 +59,9 @@ problems).
 ## Schedule
 
 ### Week 5 (October 11)
- * Compete Division: Problems \| Solutions
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/557509) \| Solutions
  
- * Learn Division: Problems \| Solutions
+ * Learn Division: [Problems]({{ site.baseurl }}/fall24/week5_learn) \| Solutions
 
 ### Week 4 (October 4)
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/555433) \| [Solutions]({{ site.baseurl }}/files/F24 W4 Compete - Solutions.pdf)
