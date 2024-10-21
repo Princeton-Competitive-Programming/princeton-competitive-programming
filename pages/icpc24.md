@@ -127,7 +127,9 @@ Please follow these carefully.
   Group](https://codeforces.com/group/hNnRWqFua0/contests).
 
 * Looking at the problems and submitting solutions will work exactly
-  like the usual weekly problem solving sessions.
+  like the usual weekly problem solving sessions. See our [intro
+  guide](https://competitive-programming.cs.princeton.edu/intro_guide)
+  if you are not familiar with this process.
 
 If you have any questions ask [Pedro
 Paredes](https://www.cs.princeton.edu/~pparedes/)
