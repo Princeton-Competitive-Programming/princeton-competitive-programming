@@ -19,14 +19,17 @@ Paredes](https://www.cs.princeton.edu/~pparedes/)
 
 ## Contest Information
 
-We will be selecting the top teams to represent Princeton in the
-Greater NY Regional Contest, which will take place Sunday, November
-10. Do not sign up to participate in the local qualifier unless you
-are planning on attending the regional contest.
+From the best ranked participants in the local contest, we will be
+forming teams to represent Princeton in the Greater NY Regional
+Contest, which will take place **Sunday, November 10**. Do not sign up
+to participate in the local qualifier unless you are planning on
+attending the regional contest. See the section below on ICPC
+qualification for information about how the teams will be formed.
 
-The regional contest is supposed to take place in Columbia University
-(more info [here](https://gny.na.icpc.global/)), but this hasn't been
-fully confirmed. We will update you on discord once we know more.
+This year the regional contest is going to be "siteless", so our
+Princeton teams will participate in the competition from Princeton
+(the building and room are TBD). You can see more info
+[here](https://gny.na.icpc.global/)).
 
 ## Contest Rules
 
@@ -80,19 +83,18 @@ Please read these carefully.
 
 ## ICPC Qualification
 
-We will be selecting the top N teams to participate in the official
-ICPC regional contest. The value of N depends on the ICPC organization
-(and whether it happens in Columbia like it was supposed to), but it
-will be at least 5.
+From the best ranked participants in the local contest we will be
+forming (at least) 10 teams to participate in the official ICPC
+regional contest.
 
-To pick teams we will use the following "draft" process, which will be
+To form teams we will use the following "draft" process, which will be
 based on the results of this local qualifier.
 
 ```
 eligible_pool = {participants with >= 1 solved problem in the local qualifier}
 icpc_teams = {}
 
-while icpc_teams.size < N:
+while icpc_teams.size < 10:
   drafter = eligible_pool.get_highest_ranked_contestant()
   team = drafter picks 2 other people currently in eligible pool (regardless of rank)
   icpc_teams.add(team)
@@ -103,7 +105,7 @@ So in summary, the highest ranked contestants get to pick their team
 (as long as the other members want to be in that team, if not, they'll
 have to pick someone else). Because of the tight ICPC deadlines, this
 process will have to be run quickly, we will need to have the teams
-decided by around November 5.
+decided by November 5.
 
 I am hoping that this will basically mean that everyone gets to pick
 their preferred team, but doing this as a draft makes the process
