@@ -58,6 +58,11 @@ problems).
 
 ## Schedule
 
+### Week 6 (October 25)
+ * [ICPC Local Qualifier]({{ site.baseurl }}/icpc24): [Contest](https://codeforces.com/group/hNnRWqFua0/contest/561172)
+ 
+ * Learn Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/561424) \| Solutions
+
 ### Week 5 (October 11)
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/557509) \| Solutions
  
