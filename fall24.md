@@ -58,6 +58,11 @@ problems).
 
 ## Schedule
 
+### Week 7 (November 1)
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/563320) \| Solutions
+ 
+ * Learn Division: [Problems]({{ site.baseurl }}/fall24/week7_learn) \| Solutions
+
 ### Week 6 (October 25)
  * [ICPC Local Qualifier]({{ site.baseurl }}/icpc24): [Contest](https://codeforces.com/group/hNnRWqFua0/contest/561172)
  
