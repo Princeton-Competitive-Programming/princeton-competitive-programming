@@ -58,6 +58,11 @@ problems).
 
 ## Schedule
 
+### Week 8 (November 8)
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/565216) \| Solutions
+ 
+ * Learn Division: [Problems]({{ site.baseurl }}/fall24/week8_learn) \| Solutions
+
 ### Week 7 (November 1)
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/563320) \| Solutions
  
