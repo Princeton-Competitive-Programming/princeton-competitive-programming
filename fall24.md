@@ -58,6 +58,14 @@ problems).
 
 ## Schedule
 
+### Week 9 (November 15)
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/566987) \| Solutions
+ 
+ * Learn Division: [Problems]({{ site.baseurl }}/fall24/week9_learn) \| Solutions
+
+### ICPC Greater New York Regional
+ * [Final Results](http://acmgnyr.org/year2024/scoreboard/scoreboard.html)
+
 ### Week 8 (November 8)
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/565216) \| Solutions
  
