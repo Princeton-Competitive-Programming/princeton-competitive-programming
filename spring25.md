@@ -58,7 +58,12 @@ problems).
 
 ## Schedule
 
-### Week 1 (February 7)
- * Compete Division: Problems \| Solutions
+### Week 2 (February 14)
+ * Compete Division - Topic Shortest Paths: [Problems]() \| Solutions
  
- * Learn Division: Problems \| Solutions
+ * Learn Division - Topic Binary Search: [Problems]({{ site.baseurl }}/spring25/week2_learn) \| Solutions
+
+### Week 1 (February 7)
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/586733) \| Solutions
+ 
+ * Learn Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/586734) \| Solutions
