@@ -145,6 +145,8 @@ supports fast insertions and lookups. A `TreeMap<String, String>` in
 Java allows storing netids as keys and passwords as values with a time
 complexity of \( O(\log n) \) for both operations.
 
+--
+
 ## Problem B: Pizza Lines
 
 You can find the [problem description
@@ -187,6 +189,7 @@ tally up the points. To solve this problem you should learn how to use
 the default map/dictionary/symbol table data structure from your
 favorite programming language and then use it.
 
+--
 
 ## Problem D: T-shirt Buying
 
