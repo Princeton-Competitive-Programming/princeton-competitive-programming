@@ -143,7 +143,7 @@ a big hint.
 To efficiently handle login credentials, we need a data structure that
 supports fast insertions and lookups. A `TreeMap<String, String>` in
 Java allows storing netids as keys and passwords as values with a time
-complexity of \( O(\log n) \) for both operations.
+complexity of $O(\log n)$ for both operations.
 
 --
 
@@ -155,8 +155,8 @@ it and then come back here.
 
 The problem requires us to efficiently find the first taller student
 in front of a given student. A naive approach of checking every
-student ahead would be too slow \( O(n^2) \). Instead, we want a
-solution running in \( O(n) \) time. Think about how to do this using
+student ahead would be too slow $O(n^2)$. Instead, we want a
+solution running in $O(n)$ time. Think about how to do this using
 some of the data structures mentioned above. If you are stuck, the
 next paragraph gives a big hint.
 
