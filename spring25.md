@@ -58,8 +58,13 @@ problems).
 
 ## Schedule
 
+### Week 3 (February 21)
+ * Compete Division  - Topic Dynamic Programming: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/590132) \| Solutions
+ 
+ * Learn Division - Topic Binary Search: [Problems]({{ site.baseurl }}/spring25/week3_learn) \| Solutions
+
 ### Week 2 (February 14)
- * Compete Division - Topic Shortest Paths: [Problems]() \| Solutions
+ * Compete Division  - Topic Shortest Paths: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/588383) \| Solutions
  
  * Learn Division - Topic Binary Search: [Problems]({{ site.baseurl }}/spring25/week2_learn) \| Solutions
 
