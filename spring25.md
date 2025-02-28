@@ -58,6 +58,11 @@ problems).
 
 ## Schedule
 
+### Week 4 (February 28)
+ * Compete Division  - [Problems](https://codeforces.com/group/hNnRWqFua0/contest/592129) \| Solutions
+ 
+ * Learn Division - Topic Sorting Algorithms: [Problems]({{ site.baseurl }}/spring25/week4_learn) \| Solutions
+
 ### Week 3 (February 21)
  * Compete Division  - Topic Dynamic Programming: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/590132) \| Solutions
  
