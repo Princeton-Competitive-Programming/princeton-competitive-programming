@@ -58,6 +58,11 @@ problems).
 
 ## Schedule
 
+### Week 6 (March 28) **DIFFERENT ROOM: CS 105**
+ * Compete Division - Topic: Range Data Structures - Problems \| Solutions
+ 
+ * Learn Division - Topic: Graph Algorithms - Problems \| Solutions
+
 ### Week 5 (March 21)
  * Compete Division  - [Problems](https://codeforces.com/group/hNnRWqFua0/contest/597754) \| Solutions
  
