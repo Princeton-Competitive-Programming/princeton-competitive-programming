@@ -90,10 +90,8 @@ In this code:
 - **Querying the tree:**  
   The `query` function checks if the current segment is completely outside, completely inside, or partially overlapping the query range, and then combines results accordingly.
 
-This array-based segment tree representation leverages the simple
-arithmetic of indices to navigate the tree efficiently, making both
-construction and queries fast (typically $O(n)$ for building and
-$O(\log n)$ for each query).
+Building the tree takes $O(n)$ time and querying it takes $O(\log n)$
+time.
 
 ### Lazy Propagation
 
@@ -178,5 +176,3 @@ large, compress these values to use them effectively as indices in the
 segment tree. Compressing just means storing a list of all $h$ values
 so you can map a certain $h$ value to an integer $i$ between $1$
 and $n$ that means that $h$ is the $i$ highest height.
-
----
