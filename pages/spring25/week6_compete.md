@@ -180,6 +180,3 @@ so you can map a certain $h$ value to an integer $i$ between $1$
 and $n$ that means that $h$ is the $i$ highest height.
 
 ---
-
-Good luck with these challenges! Focus on understanding the core concepts behind segment trees and lazy propagation, and use these insights to guide your approach without relying on a full step-by-step solution.
-```
