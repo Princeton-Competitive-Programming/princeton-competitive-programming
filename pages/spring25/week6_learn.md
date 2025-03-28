@@ -25,8 +25,6 @@ be a collaborative environment. Also, if you are stuck or have
 questions, don't keep them to yourself!  Talk to other people! If you
 are not sure who to talk to, ask on discord.
 
-Problem set [link]().
-
 ## Introduction
 
 This week's problems are built around **graph traversal**, with
