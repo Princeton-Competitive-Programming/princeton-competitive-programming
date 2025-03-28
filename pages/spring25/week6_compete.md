@@ -130,11 +130,12 @@ You can find the [problem description
 here](https://codeforces.com/group/hNnRWqFua0/contest/599531/problem/A). Read
 it and then come back here.
 
-A segment tree that stores the XOR for each segment is ideal. Each
-leaf corresponds to an element, and each internal node aggregates the
-XOR of its children. When a point is updated, you simply update the
-corresponding leaf and propagate the change up the tree. This setup
-lets you answer XOR queries in logarithmic time.
+This is a typical range query problem, but instead of sums, it is
+about XORs. Since XORs are associative, you can use a normal segment
+tree in this problem, but using the bitwise `^` operator instead of a
+sum `+` operator. You could pretty much copy paste the code above to
+solve it, but I recommend trying to start from scratch (feel free to
+look at the code if you are stuck).
 
 ---
 
