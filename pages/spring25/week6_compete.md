@@ -21,9 +21,9 @@ description of this concept).
 
 Consider the following problem:
 
-You are given a sequence \(s\) of \( N \) integers. Your task is to support two types of operations:
-- **Sum Query:** Compute the sum of the elements on a segment \([a, b]\) of the sequence, so \(s_a+s_{a+1} + \ldots + s_{b}\)
-- **Point Update:** Change the value at a specific position in the sequence, so for example given $i$ and $v$, set \(s_i\) to \(v\).
+You are given a sequence $s$ of $ N $ integers. Your task is to support two types of operations:
+- **Sum Query:** Compute the sum of the elements on a segment $[a, b]$ of the sequence, so $s_a+s_{a+1} + \ldots + s_{b}$
+- **Point Update:** Change the value at a specific position in the sequence, so for example given $i$ and $v$, set $s_i$ to $v$.
 
 Segment trees allow you to efficiently solve the above problem (and
 variations with different query operations) by breaking the array into
@@ -92,8 +92,8 @@ In this code:
 
 This array-based segment tree representation leverages the simple
 arithmetic of indices to navigate the tree efficiently, making both
-construction and queries fast (typically \(O(n)\) for building and
-\(O(\log n)\) for each query).
+construction and queries fast (typically $O(n)$ for building and
+$O(\log n)$ for each query).
 
 ### Lazy Propagation
 
@@ -148,8 +148,8 @@ it and then come back here.
 
 This problem is about range updates, so the key idea is to apply lazy
 propagation. Instead of copying elements one by one, mark entire
-segments with a lazy tag that represents a pending copy from \( a \)
-to \( b \) (you might have to carefully change the indices as you move
+segments with a lazy tag that represents a pending copy from $ a $
+to $ b $ (you might have to carefully change the indices as you move
 through the tree). Only when a query accesses a segment will the
 pending copy be applied, ensuring that range copying is handled
 swiftly.
@@ -176,8 +176,8 @@ previous pillars.
 There is one other trick you need. Since the heights may be very
 large, compress these values to use them effectively as indices in the
 segment tree. Compressing just means storing a list of all $h$ values
-so you can map a certain $h$ value to an integer \(i\) between \(1\)
-and \(n\) that means that \(h\) is the \(i\) highest height.
+so you can map a certain $h$ value to an integer $i$ between $1$
+and $n$ that means that $h$ is the $i$ highest height.
 
 ---
 
