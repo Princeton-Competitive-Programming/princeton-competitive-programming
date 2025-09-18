@@ -6,3 +6,5 @@ vendor
 Gemfile.lock
 *.svg
 *~
+.DS_Store
+CLAUDE.md
