@@ -34,7 +34,7 @@ Every session will consist of up to 2 hours of problem-solving.
 
 Each session is divided into two groups: the learn division group; and
 the compete division group. You are free to choose whatever group you
-want and you can switch at any point.
+want, and you can switch at any point.
 
  * **Learn division**: intended for those with little or no
    competitive programming experience. Each session will focus on
@@ -55,6 +55,8 @@ problems).
 ## Schedule
 
 ### Week 1 (September 19)
- * Compete Division: Problems | Solutions
 
- * Learn Division: Problems | Solutions
+[Instructions for first timers]({{ site.baseurl }}/fall25/week1)
+
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/636272)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall25/week1_learn)
