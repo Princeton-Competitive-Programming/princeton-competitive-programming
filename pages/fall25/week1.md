@@ -50,6 +50,9 @@ done it already:
 - Join our Codeforces group by going to the following link:
   [https://codeforces.com/group/hNnRWqFua0/](https://codeforces.com/group/hNnRWqFua0/)
   and clicking on *join* on the right.
+- Make sure you are on our Discord. We will post weekly updates and other
+  information there. You can also use it to ask for help outside our sessions.
+  Ask Pedro for an invite to get in.
 
 You will find all the problems on the Codeforces group link above (you can also see the problems of all past sessions). The guides with problem information for the Learn division will be available in the [Fall 25 page]({{ site.baseurl }}/fall25).
 
