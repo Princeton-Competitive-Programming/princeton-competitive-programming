@@ -111,9 +111,9 @@ Python, Rust, Go, ... You can also use your favorite IDE to write a
 solution to the problem, IntelliJ, VS Code, Emacs, ... And make sure
 you know how to compile and run programs in your favorite language in
 your favorite IDE. It's also recommended that you use the terminal to
-compile and run your programs (read the first two section of these
+compile and run your programs (read the first two sections of these
 [126 lecture
-slides](https://www.cs.princeton.edu/courses/archive/fall24/cos126/static/lectures/15InputOutput.pdf)
+slides](https://www.cs.princeton.edu/courses/archive/fall25/cos126/static/lectures/15InputOutput.pdf)
 for a refresher on this).
 
 Since the algorithms courses at Princeton use Java, we will focus on
@@ -141,7 +141,7 @@ for (int i = 0; i < n; i++) {
 
 The above code creates an object of type *Scanner*, which is very
 similar to *StdIn*. We use `nextInt()` to read the next integer from
-the input (ignoring any whitespaces). In the code above, we store the
+the input (ignoring any whitespace). In the code above, we store the
 input in an array of `int`.
 
 To output something we can use the following method:
@@ -189,7 +189,7 @@ login if you have one already) by clicking on *Register* in the top
 right corner and fill out the required details.
 
 To make your life simple, we created a group on codeforces where
-we store all of the content from the Princeton Competitive Programming
+we store all the content from the Princeton Competitive Programming
 sessions. To join this group, go to the following
 [link](https://codeforces.com/group/hNnRWqFua0/) and click on the
 *join* button on the right in order to access the problems.
@@ -223,7 +223,7 @@ you get the desired *Accepted*.
 
 **Problem Statement:** Time limit: 1 second, Memory Limit: 256MB
 
-Given an sequence $a$ of $n$ non-negative integers, find the number of
+Given a sequence $a$ of $n$ non-negative integers, find the number of
 pairs of integers that sum to an odd number. In other words, find the
 number of indices $1 \leq i \leq n$ and $1 \leq j \leq n$ such that $i
 \neq j$ and $a_i + a_j$ is odd.
@@ -368,7 +368,7 @@ too slow!
 
 ### Faster Input in Java
 
-The reason it is still too slow is because `Scanner`, the class we use
+The reason it is still too slow is `Scanner`, the class we use
 to read the input, is pretty slow. It's very easy to use `Scanner`,
 but for problems with a lot of input (like this one) it is too
 slow. So we can use a different class called `BufferedReader`, which

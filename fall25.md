@@ -54,6 +54,14 @@ problems).
 
 ## Schedule
 
+
+### Week 2 (September 26)
+
+[Instructions for first timers]({{ site.baseurl }}/fall25/week2)
+
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/637840)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall25/week2_learn)
+
 ### Week 1 (September 19)
 
 [Instructions for first timers]({{ site.baseurl }}/fall25/week1)
