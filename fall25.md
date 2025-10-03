@@ -54,6 +54,12 @@ problems).
 
 ## Schedule
 
+### Week 3 (October 3)
+
+[Instructions for first timers]({{ site.baseurl }}/fall25/week3)
+
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/640141)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall25/week3_learn)
 
 ### Week 2 (September 26)
 
