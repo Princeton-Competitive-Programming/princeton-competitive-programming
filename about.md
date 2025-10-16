@@ -36,11 +36,9 @@ our page on the [ICPC contests]({{ site.baseurl }}/icpc).
 
 ## What if I don't want to compete?
 
-Most of our events are about problem solving and learning, and
-competition is completely optional. By coming to our [weekly
-events]({{ site.baseurl }}/fall23) you can learn more about problem
-solving, learn new algorithms and data structures, practice your
-coding abilities and prepare for tech interviews. We will also
-organize interview prep sessions during the fall semester (details to
-be announced soon), which will be more focused on the interview
-aspects.
+Most of our events are about problem-solving and learning, and competition is
+completely optional. By coming to our [weekly events]({{ site.baseurl }}/fall25)
+you can learn more about problem-solving, learn new algorithms and data
+structures, practice your coding abilities and prepare for tech interviews. We
+will also organize interview prep sessions during the fall semester (details to
+be announced soon), which will be more focused on the interview aspects.

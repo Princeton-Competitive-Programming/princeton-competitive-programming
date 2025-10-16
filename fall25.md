@@ -54,6 +54,10 @@ problems).
 
 ## Schedule
 
+### Week 4 (October 24)
+ * [ICPC Local Qualifier]({{ site.baseurl }}/icpc25)
+ * Learn Division: Problems
+
 ### Week 3 (October 3)
 
 [Instructions for first timers]({{ site.baseurl }}/fall25/week3)
