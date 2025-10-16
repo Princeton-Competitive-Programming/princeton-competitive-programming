@@ -125,15 +125,19 @@ process.
 Please follow these carefully (preferably at least one day before the contest
 date).
 
+* To participate in the contest you need a [codeforces](https://codeforces.com)
+  account. If you don't have one, click on the link and then click on *Register*
+  in the top right corner and fill out the required details.
+
+* You will also need to be in the Princeton ICPC group on codeforces. To join
+  this group, go to the following
+  [link](https://codeforces.com/group/hNnRWqFua0/) and click on the *join*
+  button on the right.
+
 * The contest will be on the [Princeton ICPC
-  Group](https://codeforces.com/group/hNnRWqFua0/contests) as
-  "Princeton ICPC Selection Contest 2025-26", and it will show up
-  there around an hour before the competition starts.
-  
-* To participate in the contest you will need to register on
-  codeforces. Once the contest is up, click the register button on the
-  [Princeton ICPC
-  Group](https://codeforces.com/group/hNnRWqFua0/contests).
+  Group](https://codeforces.com/group/hNnRWqFua0/contests) as "Princeton ICPC
+  Selection Contest 2025-26", and it will show up there around an hour before
+  the competition starts. Click on the register button once the contest is up.
 
 * Looking at the problems and submitting solutions will work exactly
   like the usual weekly problem-solving sessions. See our [intro
