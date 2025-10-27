@@ -18,17 +18,17 @@ contest, but they are still eligible to be picked into teams for the regional.
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>1</td>
       <td>Ming_Xu</td>
       <td>Max Obreiter</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>2</td>
       <td>yanda</td>
       <td>Daniel Yang</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>3</td>
       <td>astoria</td>
       <td>Jishnu Roychoudhury</td>
@@ -58,7 +58,7 @@ contest, but they are still eligible to be picked into teams for the regional.
       <td>Abstraction7</td>
       <td>Bryan Zhang</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>9</td>
       <td>Tobotis</td>
       <td>Tobias Steinbrecher</td>
@@ -68,7 +68,7 @@ contest, but they are still eligible to be picked into teams for the regional.
       <td>ShawnL14</td>
       <td>Shawn Li</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>11</td>
       <td>TomitomHD</td>
       <td>Tianjian Yi</td>
@@ -153,7 +153,7 @@ contest, but they are still eligible to be picked into teams for the regional.
       <td>icouldbeinibody</td>
       <td>Iniabasi Ekpenyong</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>21</td>
       <td>danq</td>
       <td>Jerry Han</td>
