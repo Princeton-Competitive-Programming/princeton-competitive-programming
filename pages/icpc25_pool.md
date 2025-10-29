@@ -48,7 +48,7 @@ contest, but they are still eligible to be picked into teams for the regional.
       <td>Ayush_Jain12</td>
       <td>Ayush Jain</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>7</td>
       <td>thutch17</td>
       <td>Tate Hutchins</td>
@@ -123,12 +123,12 @@ contest, but they are still eligible to be picked into teams for the regional.
       <td>basaltrockformation2</td>
       <td>Basant Bruce Singh</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>21</td>
       <td>pc6487</td>
       <td>Patrick Chen</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>21</td>
       <td>Tatty</td>
       <td>Riley Bonner</td>
