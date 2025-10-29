@@ -33,17 +33,17 @@ contest, but they are still eligible to be picked into teams for the regional.
       <td>astoria</td>
       <td>Jishnu Roychoudhury</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>4</td>
       <td>D4D5C4</td>
       <td>Devan Shah</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>5</td>
       <td>dlucoding813</td>
       <td>Daniel Lu</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>6</td>
       <td>Ayush_Jain12</td>
       <td>Ayush Jain</td>
