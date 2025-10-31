@@ -1,5 +1,5 @@
 ---
-permalink: /spring25/week6_learn
+permalink: /fall25/week5_learn
 layout: page
 ---
 
