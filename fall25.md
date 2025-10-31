@@ -54,9 +54,13 @@ problems).
 
 ## Schedule
 
+### Week 5 (October 31)
+
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/647435)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall25/week5_learn)
+
 ### Week 4 (October 24)
  * [ICPC Local Qualifier]({{ site.baseurl }}/icpc25)
- * Learn Division: Problems
 
 ### Week 3 (October 3)
 
