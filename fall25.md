@@ -54,6 +54,14 @@ problems).
 
 ## Schedule
 
+### Week 6 (November 7) - NOTE: REMOTE ONLY
+
+Due to a conflict with HackPrinceton, we don't have a room for this week, so the
+usual session will be remote only.
+
+ * Compete Division: Problems
+ * Learn Division: Problems
+
 ### Week 5 (October 31)
 
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/647435)
