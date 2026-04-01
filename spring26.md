@@ -29,6 +29,9 @@ A talk on how to approach algorithmic questions, progressing from easier to
 harder examples drawn from elegant problems in competitive programming history.
 Followed by a short problem-solving session.
 
+The talk itself will last around 1 hour, followed by an optional session of
+problem-solving.
+
 ### April 10 -- Problem Solving Session
 
 A 2-hour collaborative problem-solving session. Work through a curated
@@ -40,6 +43,8 @@ set of problems with other students -- great for all experience levels.
 
 A talk exploring how large language models with inference-time scaling
 have achieved top results in major programming and math competitions.
+
+The talk will last around 1 hour.
 
 ### April 24 -- End of Semester Contest
 
