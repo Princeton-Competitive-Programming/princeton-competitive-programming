@@ -37,6 +37,8 @@ problem-solving.
 A 2-hour collaborative problem-solving session. Work through a curated
 set of problems with other students -- great for all experience levels.
 
+* [Link to the session]({{ site.baseurl }}/spring26/week0410)
+
 ### April 17 -- Talk
 
 **"How AI Beat the ICPC/IOI/IMO -- Inference Scaling LLMs"**
