@@ -52,8 +52,7 @@ not be eligible for prizes.
 
 ## Prizes
 
-Prizes are TBA. There will be 3 prizes per pool, awarded in the
-following order:
+Prizes are a 3D Printer, AirPods, Portable Chargers, and more. There will be 3 prize pools, awarded in the following order (each student picks a prize following this order):
 
  * 1st place General
  * 1st place Freshmen/Sophomores
