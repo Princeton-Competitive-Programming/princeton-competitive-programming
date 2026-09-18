@@ -58,8 +58,8 @@ problems).
 
 #### Week 1 (September 18)
 
- * Compete Division: Problems | Solutions
- * Learn Division: Problems | Solutions
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/717365)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall26/week1_learn)
 
 #### Week 2 (September 25)
 
