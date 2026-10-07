@@ -106,7 +106,7 @@ while icpc_teams.size < 5:
 So in summary, the highest ranked contestants get to pick their team
 (as long as the other members want to be in that team, if not, they'll
 have to pick someone else). We will need to have the teams decided by
-November 1 (about three weeks after the qualifier).
+October 26 (about two and a half weeks after the qualifier).
 
 I am hoping that this will basically mean that everyone gets to pick
 their preferred team, but doing this as a draft makes the process
