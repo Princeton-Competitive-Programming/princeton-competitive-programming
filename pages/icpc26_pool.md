@@ -28,7 +28,7 @@ students that participated.
       <td>1</td>
       <td>Jishnu Roychoudhury</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>2</td>
       <td>Ayush Jain</td>
     </tr>
@@ -56,7 +56,7 @@ students that participated.
       <td>8</td>
       <td>Aikhan Jumashukurov</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>9</td>
       <td>Isaac Badipe</td>
     </tr>
@@ -72,7 +72,7 @@ students that participated.
       <td>12</td>
       <td>Daniel Lu</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>13</td>
       <td>Jonathan Liu</td>
     </tr>
@@ -142,7 +142,7 @@ The following teams have been formed so far. Teams still to be filled out are
 left blank.
 
 * **Princeton 1:** Jishnu Roychoudhury, Jerry Han, Erekle Roinishvili
-* **Princeton 2:**
+* **Princeton 2:** Ayush Jain, Isaac Badipe, Jonathan Liu
 * **Princeton 3:**
 * **Princeton 4:**
 * **Princeton 5:**
