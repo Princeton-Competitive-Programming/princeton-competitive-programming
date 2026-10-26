@@ -40,15 +40,15 @@ students that participated.
       <td>4</td>
       <td>Shreyas Garimella</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>5</td>
       <td>Emily Zou</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>6</td>
       <td>Lakshit Ahuja</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>7</td>
       <td>Reeti Rout</td>
     </tr>
@@ -143,6 +143,6 @@ left blank.
 
 * **Princeton 1:** Jishnu Roychoudhury, Jerry Han, Erekle Roinishvili
 * **Princeton 2:** Ayush Jain, Isaac Badipe, Jonathan Liu
-* **Princeton 3:**
+* **Princeton 3:** Emily Zou, Lakshit Ahuja, Reeti Rout
 * **Princeton 4:**
 * **Princeton 5:**
