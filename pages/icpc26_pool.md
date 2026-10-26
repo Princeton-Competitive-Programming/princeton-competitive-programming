@@ -36,7 +36,7 @@ students that participated.
       <td>3</td>
       <td>Jerry Han</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>4</td>
       <td>Shreyas Garimella</td>
     </tr>
