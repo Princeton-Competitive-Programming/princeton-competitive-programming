@@ -52,7 +52,7 @@ students that participated.
       <td>7</td>
       <td>Reeti Rout</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>8</td>
       <td>Aikhan Jumashukurov</td>
     </tr>
@@ -64,11 +64,11 @@ students that participated.
       <td>10</td>
       <td>Adham Ibrahim</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>11</td>
       <td>Grace Sun</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>12</td>
       <td>Daniel Lu</td>
     </tr>
@@ -144,5 +144,5 @@ left blank.
 * **Princeton 1:** Jishnu Roychoudhury, Jerry Han, Erekle Roinishvili
 * **Princeton 2:** Ayush Jain, Isaac Badipe, Jonathan Liu
 * **Princeton 3:** Emily Zou, Lakshit Ahuja, Reeti Rout
-* **Princeton 4:**
+* **Princeton 4:** Aikhan Jumashukurov, Grace Sun, Daniel Lu
 * **Princeton 5:**
