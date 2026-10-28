@@ -60,7 +60,7 @@ students that participated.
       <td>9</td>
       <td>Isaac Badipe</td>
     </tr>
-    <tr>
+    <tr style="text-decoration: line-through;">
       <td>10</td>
       <td>Adham Ibrahim</td>
     </tr>
