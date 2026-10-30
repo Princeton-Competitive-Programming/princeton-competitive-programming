@@ -56,13 +56,10 @@ problems).
 
 ### Future
 
-#### Week 4 (October 9)
- * [ICPC Local Qualifier]({{ site.baseurl }}/icpc26)
-
 #### Week 5 (October 30)
 
- * Compete Division: Problems
- * Learn Division: Problems
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/728815)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall26/week5_learn)
 
 #### Week 6 (November 6)
 
@@ -70,6 +67,9 @@ problems).
  * Learn Division: Problems
 
 ### Past
+
+#### Week 4 (October 9)
+ * [ICPC Local Qualifier]({{ site.baseurl }}/icpc26)
 
 #### Week 3 (October 2)
 
