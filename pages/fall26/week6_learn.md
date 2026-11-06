@@ -1,9 +1,9 @@
 ---
-permalink: /fall26/week5_learn
+permalink: /fall26/week6_learn
 layout: page
 ---
 
-{% include main_title.html text="Fall 26 - Learn Division Week 5" %}
+{% include main_title.html text="Fall 26 - Learn Division Week 6" %}
 
 Welcome to another week of competitive programming of Fall 2026! Today's
 problem-solving session will focus on **dynamic programming**.

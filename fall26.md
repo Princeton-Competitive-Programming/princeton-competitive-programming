@@ -56,17 +56,17 @@ problems).
 
 ### Future
 
+#### Week 6 (November 6)
+
+ * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/730830)
+ * Learn Division: [Problems]({{ site.baseurl }}/fall26/week6_learn)
+
+### Past
+
 #### Week 5 (October 30)
 
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/728815)
- * Learn Division: [Problems]({{ site.baseurl }}/fall26/week5_learn)
-
-#### Week 6 (November 6)
-
- * Compete Division: Problems
- * Learn Division: Problems
-
-### Past
+ * Learn Division: [Problems]({{ site.baseurl }}/fall26/week6_learn)
 
 #### Week 4 (October 9)
  * [ICPC Local Qualifier]({{ site.baseurl }}/icpc26)
