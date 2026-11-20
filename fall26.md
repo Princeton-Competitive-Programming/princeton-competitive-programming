@@ -56,12 +56,16 @@ problems).
 
 ### Future
 
+#### Week 7 (November 20)
+
+ * [Problems](https://codeforces.com/group/hNnRWqFua0/contest/734535)
+
+### Past
+
 #### Week 6 (November 6)
 
  * Compete Division: [Problems](https://codeforces.com/group/hNnRWqFua0/contest/730830)
  * Learn Division: [Problems]({{ site.baseurl }}/fall26/week6_learn)
-
-### Past
 
 #### Week 5 (October 30)
 
